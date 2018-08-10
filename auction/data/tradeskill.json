@@ -1,0 +1,5112 @@
+[
+    {
+        "id": 23784,
+        "name": "Adamantite Frame",
+        "subclass": 1
+    },
+    {
+        "id": 161136,
+        "name": "Azerite Forged Protection Plating",
+        "subclass": 1
+    },
+    {
+        "id": 98717,
+        "name": "Balanced Trillium Ingot",
+        "subclass": 1
+    },
+    {
+        "id": 161131,
+        "name": "Barely Stable Azerite Reactor",
+        "subclass": 1
+    },
+    {
+        "id": 161137,
+        "name": "Blast-Fired Electric Servomotor",
+        "subclass": 1
+    },
+    {
+        "id": 160502,
+        "name": "Chemical Blasting Cap",
+        "subclass": 1
+    },
+    {
+        "id": 161132,
+        "name": "Crush Resistant Stabilizer",
+        "subclass": 1
+    },
+    {
+        "id": 16006,
+        "name": "Delicate Arcanite Converter",
+        "subclass": 1
+    },
+    {
+        "id": 114056,
+        "name": "Didi's Delicate Assembly",
+        "subclass": 1
+    },
+    {
+        "id": 67749,
+        "name": "Electrified Ether",
+        "subclass": 1
+    },
+    {
+        "id": 23781,
+        "name": "Elemental Blasting Powder",
+        "subclass": 1
+    },
+    {
+        "id": 44500,
+        "name": "Elementium-Plated Exhaust Pipe",
+        "subclass": 1
+    },
+    {
+        "id": 23782,
+        "name": "Fel Iron Casing",
+        "subclass": 1
+    },
+    {
+        "id": 23787,
+        "name": "Felsteel Stabilizer",
+        "subclass": 1
+    },
+    {
+        "id": 39683,
+        "name": "Froststeel Tube",
+        "subclass": 1
+    },
+    {
+        "id": 111366,
+        "name": "Gearspring Parts",
+        "subclass": 1
+    },
+    {
+        "id": 77467,
+        "name": "Ghost Iron Bolts",
+        "subclass": 1
+    },
+    {
+        "id": 44501,
+        "name": "Goblin-Machined Piston",
+        "subclass": 1
+    },
+    {
+        "id": 39684,
+        "name": "Hair Trigger",
+        "subclass": 1
+    },
+    {
+        "id": 39681,
+        "name": "Handful of Cobalt Bolts",
+        "subclass": 1
+    },
+    {
+        "id": 23783,
+        "name": "Handful of Fel Iron Bolts",
+        "subclass": 1
+    },
+    {
+        "id": 60224,
+        "name": "Handful of Obsidium Bolts",
+        "subclass": 1
+    },
+    {
+        "id": 23785,
+        "name": "Hardened Adamantite Tube",
+        "subclass": 1
+    },
+    {
+        "id": 77468,
+        "name": "High-Explosive Gunpowder",
+        "subclass": 1
+    },
+    {
+        "id": 32423,
+        "name": "Icy Blasting Primers",
+        "subclass": 1
+    },
+    {
+        "id": 39685,
+        "name": "Indestructible Frame",
+        "subclass": 1
+    },
+    {
+        "id": 61981,
+        "name": "Inferno Ink",
+        "subclass": 1
+    },
+    {
+        "id": 163569,
+        "name": "Insulated Wiring",
+        "subclass": 1
+    },
+    {
+        "id": 94113,
+        "name": "Jard's Peculiar Energy Source",
+        "subclass": 1
+    },
+    {
+        "id": 52188,
+        "name": "Jeweler's Setting",
+        "subclass": 1
+    },
+    {
+        "id": 23786,
+        "name": "Khorium Power Core",
+        "subclass": 1
+    },
+    {
+        "id": 94111,
+        "name": "Lightning Steel Ingot",
+        "subclass": 1
+    },
+    {
+        "id": 158887,
+        "name": "Monelite Reinforced Chassis",
+        "subclass": 1
+    },
+    {
+        "id": 39686,
+        "name": "Neo-Dynamic Gear Assembly",
+        "subclass": 1
+    },
+    {
+        "id": 39682,
+        "name": "Overcharged Capacitor",
+        "subclass": 1
+    },
+    {
+        "id": 44499,
+        "name": "Salvaged Iron Golem Parts",
+        "subclass": 1
+    },
+    {
+        "id": 77469,
+        "name": "Salvaged Parts",
+        "subclass": 1
+    },
+    {
+        "id": 119299,
+        "name": "Secret of Draenor Engineering",
+        "subclass": 1
+    },
+    {
+        "id": 158886,
+        "name": "Super-Charged Engine",
+        "subclass": 1
+    },
+    {
+        "id": 90146,
+        "name": "Tinker's Kit",
+        "subclass": 1
+    },
+    {
+        "id": 39690,
+        "name": "Volatile Blasting Trigger",
+        "subclass": 1
+    },
+    {
+        "id": 40533,
+        "name": "Walnut Stock",
+        "subclass": 1
+    },
+    {
+        "id": 24243,
+        "name": "Adamantite Powder",
+        "subclass": 4
+    },
+    {
+        "id": 76137,
+        "name": "Alexandrite",
+        "subclass": 4
+    },
+    {
+        "id": 52179,
+        "name": "Alicite",
+        "subclass": 4
+    },
+    {
+        "id": 154123,
+        "name": "Amberblaze",
+        "subclass": 4
+    },
+    {
+        "id": 52195,
+        "name": "Amberjewel",
+        "subclass": 4
+    },
+    {
+        "id": 36931,
+        "name": "Ametrine",
+        "subclass": 4
+    },
+    {
+        "id": 12363,
+        "name": "Arcane Crystal",
+        "subclass": 4
+    },
+    {
+        "id": 151718,
+        "name": "Argulite",
+        "subclass": 4
+    },
+    {
+        "id": 36921,
+        "name": "Autumn's Glow",
+        "subclass": 4
+    },
+    {
+        "id": 12800,
+        "name": "Azerothian Diamond",
+        "subclass": 4
+    },
+    {
+        "id": 130174,
+        "name": "Azsunite",
+        "subclass": 4
+    },
+    {
+        "id": 23117,
+        "name": "Azure Moonstone",
+        "subclass": 4
+    },
+    {
+        "id": 23077,
+        "name": "Blood Garnet",
+        "subclass": 4
+    },
+    {
+        "id": 36917,
+        "name": "Bloodstone",
+        "subclass": 4
+    },
+    {
+        "id": 144350,
+        "name": "Blue Gem",
+        "subclass": 4
+    },
+    {
+        "id": 36919,
+        "name": "Cardinal Ruby",
+        "subclass": 4
+    },
+    {
+        "id": 52177,
+        "name": "Carnelian",
+        "subclass": 4
+    },
+    {
+        "id": 36923,
+        "name": "Chalcedony",
+        "subclass": 4
+    },
+    {
+        "id": 130175,
+        "name": "Chaotic Spinel",
+        "subclass": 4
+    },
+    {
+        "id": 151720,
+        "name": "Chemirine",
+        "subclass": 4
+    },
+    {
+        "id": 52196,
+        "name": "Chimera's Eye",
+        "subclass": 4
+    },
+    {
+        "id": 32227,
+        "name": "Crimson Spinel",
+        "subclass": 4
+    },
+    {
+        "id": 36932,
+        "name": "Dark Jade",
+        "subclass": 4
+    },
+    {
+        "id": 52338,
+        "name": "Darkfathom Pearl",
+        "subclass": 4
+    },
+    {
+        "id": 130180,
+        "name": "Dawnlight",
+        "subclass": 4
+    },
+    {
+        "id": 23440,
+        "name": "Dawnstone",
+        "subclass": 4
+    },
+    {
+        "id": 130173,
+        "name": "Deep Amber",
+        "subclass": 4
+    },
+    {
+        "id": 23079,
+        "name": "Deep Peridot",
+        "subclass": 4
+    },
+    {
+        "id": 71807,
+        "name": "Deepholm Iolite",
+        "subclass": 4
+    },
+    {
+        "id": 52194,
+        "name": "Demonseye",
+        "subclass": 4
+    },
+    {
+        "id": 42225,
+        "name": "Dragon's Eye",
+        "subclass": 4
+    },
+    {
+        "id": 36928,
+        "name": "Dreadstone",
+        "subclass": 4
+    },
+    {
+        "id": 52192,
+        "name": "Dream Emerald",
+        "subclass": 4
+    },
+    {
+        "id": 41334,
+        "name": "Earthsiege Diamond",
+        "subclass": 4
+    },
+    {
+        "id": 25867,
+        "name": "Earthstorm Diamond",
+        "subclass": 4
+    },
+    {
+        "id": 77952,
+        "name": "Elementium Gem Cluster",
+        "subclass": 4
+    },
+    {
+        "id": 71810,
+        "name": "Elven Peridot",
+        "subclass": 4
+    },
+    {
+        "id": 52193,
+        "name": "Ember Topaz",
+        "subclass": 4
+    },
+    {
+        "id": 32228,
+        "name": "Empyrean Sapphire",
+        "subclass": 4
+    },
+    {
+        "id": 130179,
+        "name": "Eye of Prophecy",
+        "subclass": 4
+    },
+    {
+        "id": 36934,
+        "name": "Eye of Zul",
+        "subclass": 4
+    },
+    {
+        "id": 21929,
+        "name": "Flame Spessarite",
+        "subclass": 4
+    },
+    {
+        "id": 52339,
+        "name": "Flawless Pearl",
+        "subclass": 4
+    },
+    {
+        "id": 151722,
+        "name": "Florid Malachite",
+        "subclass": 4
+    },
+    {
+        "id": 36933,
+        "name": "Forest Emerald",
+        "subclass": 4
+    },
+    {
+        "id": 130178,
+        "name": "Furystone",
+        "subclass": 4
+    },
+    {
+        "id": 153700,
+        "name": "Golden Beryl",
+        "subclass": 4
+    },
+    {
+        "id": 23112,
+        "name": "Golden Draenite",
+        "subclass": 4
+    },
+    {
+        "id": 144349,
+        "name": "Green Gem",
+        "subclass": 4
+    },
+    {
+        "id": 151721,
+        "name": "Hesselian",
+        "subclass": 4
+    },
+    {
+        "id": 52181,
+        "name": "Hessonite",
+        "subclass": 4
+    },
+    {
+        "id": 36929,
+        "name": "Huge Citrine",
+        "subclass": 4
+    },
+    {
+        "id": 12364,
+        "name": "Huge Emerald",
+        "subclass": 4
+    },
+    {
+        "id": 76141,
+        "name": "Imperial Amethyst",
+        "subclass": 4
+    },
+    {
+        "id": 52190,
+        "name": "Inferno Ruby",
+        "subclass": 4
+    },
+    {
+        "id": 52182,
+        "name": "Jasper",
+        "subclass": 4
+    },
+    {
+        "id": 153716,
+        "name": "Jewelhammer's Focus",
+        "subclass": 4
+    },
+    {
+        "id": 36922,
+        "name": "King's Amber",
+        "subclass": 4
+    },
+    {
+        "id": 153706,
+        "name": "Kraken's Eye",
+        "subclass": 4
+    },
+    {
+        "id": 153702,
+        "name": "Kubiline",
+        "subclass": 4
+    },
+    {
+        "id": 153705,
+        "name": "Kyanite",
+        "subclass": 4
+    },
+    {
+        "id": 151579,
+        "name": "Labradorite",
+        "subclass": 4
+    },
+    {
+        "id": 76133,
+        "name": "Lapis Lazuli",
+        "subclass": 4
+    },
+    {
+        "id": 154124,
+        "name": "Laribole",
+        "subclass": 4
+    },
+    {
+        "id": 71808,
+        "name": "Lava Coral",
+        "subclass": 4
+    },
+    {
+        "id": 151719,
+        "name": "Lightsphene",
+        "subclass": 4
+    },
+    {
+        "id": 71806,
+        "name": "Lightstone",
+        "subclass": 4
+    },
+    {
+        "id": 32229,
+        "name": "Lionseye",
+        "subclass": 4
+    },
+    {
+        "id": 23436,
+        "name": "Living Ruby",
+        "subclass": 4
+    },
+    {
+        "id": 130182,
+        "name": "Maelstrom Sapphire",
+        "subclass": 4
+    },
+    {
+        "id": 36925,
+        "name": "Majestic Zircon",
+        "subclass": 4
+    },
+    {
+        "id": 31079,
+        "name": "Mercurial Adamantite",
+        "subclass": 4
+    },
+    {
+        "id": 36930,
+        "name": "Monarch Topaz",
+        "subclass": 4
+    },
+    {
+        "id": 23441,
+        "name": "Nightseye",
+        "subclass": 4
+    },
+    {
+        "id": 52180,
+        "name": "Nightstone",
+        "subclass": 4
+    },
+    {
+        "id": 23439,
+        "name": "Noble Topaz",
+        "subclass": 4
+    },
+    {
+        "id": 36783,
+        "name": "Northsea Pearl",
+        "subclass": 4
+    },
+    {
+        "id": 52191,
+        "name": "Ocean Sapphire",
+        "subclass": 4
+    },
+    {
+        "id": 144344,
+        "name": "Orange Gem",
+        "subclass": 4
+    },
+    {
+        "id": 154120,
+        "name": "Owlseye",
+        "subclass": 4
+    },
+    {
+        "id": 76136,
+        "name": "Pandarian Garnet",
+        "subclass": 4
+    },
+    {
+        "id": 130181,
+        "name": "Pandemonite",
+        "subclass": 4
+    },
+    {
+        "id": 76132,
+        "name": "Primal Diamond",
+        "subclass": 4
+    },
+    {
+        "id": 76131,
+        "name": "Primordial Ruby",
+        "subclass": 4
+    },
+    {
+        "id": 45054,
+        "name": "Prismatic Black Diamond",
+        "subclass": 4
+    },
+    {
+        "id": 144351,
+        "name": "Purple Gem",
+        "subclass": 4
+    },
+    {
+        "id": 32231,
+        "name": "Pyrestone",
+        "subclass": 4
+    },
+    {
+        "id": 71805,
+        "name": "Queen's Garnet",
+        "subclass": 4
+    },
+    {
+        "id": 130177,
+        "name": "Queen's Opal",
+        "subclass": 4
+    },
+    {
+        "id": 144347,
+        "name": "Red Gem",
+        "subclass": 4
+    },
+    {
+        "id": 76138,
+        "name": "River's Heart",
+        "subclass": 4
+    },
+    {
+        "id": 76135,
+        "name": "Roguestone",
+        "subclass": 4
+    },
+    {
+        "id": 154125,
+        "name": "Royal Quartz",
+        "subclass": 4
+    },
+    {
+        "id": 153701,
+        "name": "Rubellite",
+        "subclass": 4
+    },
+    {
+        "id": 130245,
+        "name": "Saber's Eye",
+        "subclass": 4
+    },
+    {
+        "id": 130172,
+        "name": "Sangrite",
+        "subclass": 4
+    },
+    {
+        "id": 154121,
+        "name": "Scarlet Diamond",
+        "subclass": 4
+    },
+    {
+        "id": 36918,
+        "name": "Scarlet Ruby",
+        "subclass": 4
+    },
+    {
+        "id": 32249,
+        "name": "Seaspray Emerald",
+        "subclass": 4
+    },
+    {
+        "id": 76734,
+        "name": "Serpent's Eye",
+        "subclass": 4
+    },
+    {
+        "id": 36926,
+        "name": "Shadow Crystal",
+        "subclass": 4
+    },
+    {
+        "id": 23107,
+        "name": "Shadow Draenite",
+        "subclass": 4
+    },
+    {
+        "id": 71809,
+        "name": "Shadow Spinel",
+        "subclass": 4
+    },
+    {
+        "id": 130183,
+        "name": "Shadowruby",
+        "subclass": 4
+    },
+    {
+        "id": 32230,
+        "name": "Shadowsong Amethyst",
+        "subclass": 4
+    },
+    {
+        "id": 52303,
+        "name": "Shadowspirit Diamond",
+        "subclass": 4
+    },
+    {
+        "id": 77951,
+        "name": "Shadowy Gem",
+        "subclass": 4
+    },
+    {
+        "id": 36784,
+        "name": "Siren's Tear",
+        "subclass": 4
+    },
+    {
+        "id": 36924,
+        "name": "Sky Sapphire",
+        "subclass": 4
+    },
+    {
+        "id": 25868,
+        "name": "Skyfire Diamond",
+        "subclass": 4
+    },
+    {
+        "id": 41266,
+        "name": "Skyflare Diamond",
+        "subclass": 4
+    },
+    {
+        "id": 130176,
+        "name": "Skystone",
+        "subclass": 4
+    },
+    {
+        "id": 153703,
+        "name": "Solstone",
+        "subclass": 4
+    },
+    {
+        "id": 23438,
+        "name": "Star of Elune",
+        "subclass": 4
+    },
+    {
+        "id": 36920,
+        "name": "Sun Crystal",
+        "subclass": 4
+    },
+    {
+        "id": 76142,
+        "name": "Sun's Radiance",
+        "subclass": 4
+    },
+    {
+        "id": 76134,
+        "name": "Sunstone",
+        "subclass": 4
+    },
+    {
+        "id": 23437,
+        "name": "Talasite",
+        "subclass": 4
+    },
+    {
+        "id": 154122,
+        "name": "Tidal Amethyst",
+        "subclass": 4
+    },
+    {
+        "id": 76130,
+        "name": "Tiger Opal",
+        "subclass": 4
+    },
+    {
+        "id": 46849,
+        "name": "Titanium Powder",
+        "subclass": 4
+    },
+    {
+        "id": 36927,
+        "name": "Twilight Opal",
+        "subclass": 4
+    },
+    {
+        "id": 76140,
+        "name": "Vermilion Onyx",
+        "subclass": 4
+    },
+    {
+        "id": 153704,
+        "name": "Viridium",
+        "subclass": 4
+    },
+    {
+        "id": 76139,
+        "name": "Wild Jade",
+        "subclass": 4
+    },
+    {
+        "id": 144348,
+        "name": "Yellow Gem",
+        "subclass": 4
+    },
+    {
+        "id": 52178,
+        "name": "Zephyrite",
+        "subclass": 4
+    },
+    {
+        "id": 53643,
+        "name": "Bolt of Embersilk Cloth",
+        "subclass": 5
+    },
+    {
+        "id": 41510,
+        "name": "Bolt of Frostweave",
+        "subclass": 5
+    },
+    {
+        "id": 41511,
+        "name": "Bolt of Imbued Frostweave",
+        "subclass": 5
+    },
+    {
+        "id": 21842,
+        "name": "Bolt of Imbued Netherweave",
+        "subclass": 5
+    },
+    {
+        "id": 21840,
+        "name": "Bolt of Netherweave",
+        "subclass": 5
+    },
+    {
+        "id": 21844,
+        "name": "Bolt of Soulcloth",
+        "subclass": 5
+    },
+    {
+        "id": 82441,
+        "name": "Bolt of Windwool Cloth",
+        "subclass": 5
+    },
+    {
+        "id": 98619,
+        "name": "Celestial Cloth",
+        "subclass": 5
+    },
+    {
+        "id": 54440,
+        "name": "Dreamcloth",
+        "subclass": 5
+    },
+    {
+        "id": 41593,
+        "name": "Ebonweave",
+        "subclass": 5
+    },
+    {
+        "id": 53010,
+        "name": "Embersilk Cloth",
+        "subclass": 5
+    },
+    {
+        "id": 38426,
+        "name": "Eternium Thread",
+        "subclass": 5
+    },
+    {
+        "id": 33470,
+        "name": "Frostweave Cloth",
+        "subclass": 5
+    },
+    {
+        "id": 111556,
+        "name": "Hexweave Cloth",
+        "subclass": 5
+    },
+    {
+        "id": 42253,
+        "name": "Iceweb Spider Silk",
+        "subclass": 5
+    },
+    {
+        "id": 127004,
+        "name": "Imbued Silkweave",
+        "subclass": 5
+    },
+    {
+        "id": 82447,
+        "name": "Imperial Silk",
+        "subclass": 5
+    },
+    {
+        "id": 151567,
+        "name": "Lightweave Cloth",
+        "subclass": 5
+    },
+    {
+        "id": 41594,
+        "name": "Moonshroud",
+        "subclass": 5
+    },
+    {
+        "id": 21877,
+        "name": "Netherweave Cloth",
+        "subclass": 5
+    },
+    {
+        "id": 21881,
+        "name": "Netherweb Spider Silk",
+        "subclass": 5
+    },
+    {
+        "id": 159959,
+        "name": "Nylon Thread",
+        "subclass": 5
+    },
+    {
+        "id": 21845,
+        "name": "Primal Mooncloth",
+        "subclass": 5
+    },
+    {
+        "id": 127037,
+        "name": "Runic Catgut",
+        "subclass": 5
+    },
+    {
+        "id": 24272,
+        "name": "Shadowcloth",
+        "subclass": 5
+    },
+    {
+        "id": 124437,
+        "name": "Shal'dorei Silk",
+        "subclass": 5
+    },
+    {
+        "id": 127681,
+        "name": "Sharp Spritethorn",
+        "subclass": 5
+    },
+    {
+        "id": 92960,
+        "name": "Silkworm Cocoon",
+        "subclass": 5
+    },
+    {
+        "id": 24271,
+        "name": "Spellcloth",
+        "subclass": 5
+    },
+    {
+        "id": 41595,
+        "name": "Spellweave",
+        "subclass": 5
+    },
+    {
+        "id": 111557,
+        "name": "Sumptuous Fur",
+        "subclass": 5
+    },
+    {
+        "id": 72988,
+        "name": "Windwool Cloth",
+        "subclass": 5
+    },
+    {
+        "id": 44128,
+        "name": "Arctic Fur",
+        "subclass": 6
+    },
+    {
+        "id": 52979,
+        "name": "Blackened Dragonscale",
+        "subclass": 6
+    },
+    {
+        "id": 112156,
+        "name": "Blackened Dragonscale Fragment",
+        "subclass": 6
+    },
+    {
+        "id": 154164,
+        "name": "Blood-Stained Bone",
+        "subclass": 6
+    },
+    {
+        "id": 33568,
+        "name": "Borean Leather",
+        "subclass": 6
+    },
+    {
+        "id": 33567,
+        "name": "Borean Leather Scraps",
+        "subclass": 6
+    },
+    {
+        "id": 110611,
+        "name": "Burnished Leather",
+        "subclass": 6
+    },
+    {
+        "id": 154165,
+        "name": "Calcified Bone",
+        "subclass": 6
+    },
+    {
+        "id": 152541,
+        "name": "Coarse Leather",
+        "subclass": 6
+    },
+    {
+        "id": 112184,
+        "name": "Cobra Scale Fragment",
+        "subclass": 6
+    },
+    {
+        "id": 29539,
+        "name": "Cobra Scales",
+        "subclass": 6
+    },
+    {
+        "id": 17012,
+        "name": "Core Leather",
+        "subclass": 6
+    },
+    {
+        "id": 25699,
+        "name": "Crystal Infused Leather",
+        "subclass": 6
+    },
+    {
+        "id": 154170,
+        "name": "Curved Diamond Awl Blade",
+        "subclass": 6
+    },
+    {
+        "id": 152577,
+        "name": "Deep Sea Satin",
+        "subclass": 6
+    },
+    {
+        "id": 52982,
+        "name": "Deepsea Scale",
+        "subclass": 6
+    },
+    {
+        "id": 112155,
+        "name": "Deepsea Scale Fragment",
+        "subclass": 6
+    },
+    {
+        "id": 136533,
+        "name": "Dreadhide Leather",
+        "subclass": 6
+    },
+    {
+        "id": 20381,
+        "name": "Dreamscale",
+        "subclass": 6
+    },
+    {
+        "id": 158378,
+        "name": "Embroidered Deep Sea Satin",
+        "subclass": 6
+    },
+    {
+        "id": 72120,
+        "name": "Exotic Leather",
+        "subclass": 6
+    },
+    {
+        "id": 25707,
+        "name": "Fel Hide",
+        "subclass": 6
+    },
+    {
+        "id": 112181,
+        "name": "Fel Scale Fragment",
+        "subclass": 6
+    },
+    {
+        "id": 25700,
+        "name": "Fel Scales",
+        "subclass": 6
+    },
+    {
+        "id": 124116,
+        "name": "Felhide",
+        "subclass": 6
+    },
+    {
+        "id": 151566,
+        "name": "Fiendish Leather",
+        "subclass": 6
+    },
+    {
+        "id": 136534,
+        "name": "Gravenscale",
+        "subclass": 6
+    },
+    {
+        "id": 98617,
+        "name": "Hardened Magnificent Hide",
+        "subclass": 6
+    },
+    {
+        "id": 152542,
+        "name": "Hardened Tempest Hide",
+        "subclass": 6
+    },
+    {
+        "id": 38425,
+        "name": "Heavy Borean Leather",
+        "subclass": 6
+    },
+    {
+        "id": 23793,
+        "name": "Heavy Knothide Leather",
+        "subclass": 6
+    },
+    {
+        "id": 56516,
+        "name": "Heavy Savage Leather",
+        "subclass": 6
+    },
+    {
+        "id": 38557,
+        "name": "Icy Dragonscale",
+        "subclass": 6
+    },
+    {
+        "id": 112158,
+        "name": "Icy Dragonscale Fragment",
+        "subclass": 6
+    },
+    {
+        "id": 38561,
+        "name": "Jormungar Scale",
+        "subclass": 6
+    },
+    {
+        "id": 112178,
+        "name": "Jormungar Scale Fragment",
+        "subclass": 6
+    },
+    {
+        "id": 21887,
+        "name": "Knothide Leather",
+        "subclass": 6
+    },
+    {
+        "id": 25649,
+        "name": "Knothide Leather Scraps",
+        "subclass": 6
+    },
+    {
+        "id": 72163,
+        "name": "Magnificent Hide",
+        "subclass": 6
+    },
+    {
+        "id": 153051,
+        "name": "Mistscale",
+        "subclass": 6
+    },
+    {
+        "id": 38558,
+        "name": "Nerubian Chitin",
+        "subclass": 6
+    },
+    {
+        "id": 112177,
+        "name": "Nerubian Chitin Fragment",
+        "subclass": 6
+    },
+    {
+        "id": 112183,
+        "name": "Nether Dragonscale Fragment",
+        "subclass": 6
+    },
+    {
+        "id": 29548,
+        "name": "Nether Dragonscales",
+        "subclass": 6
+    },
+    {
+        "id": 112180,
+        "name": "Patch of Crystal Infused Leather",
+        "subclass": 6
+    },
+    {
+        "id": 112182,
+        "name": "Patch of Fel Hide",
+        "subclass": 6
+    },
+    {
+        "id": 112179,
+        "name": "Patch of Thick Clefthoof Leather",
+        "subclass": 6
+    },
+    {
+        "id": 19767,
+        "name": "Primal Bat Leather",
+        "subclass": 6
+    },
+    {
+        "id": 19768,
+        "name": "Primal Tiger Leather",
+        "subclass": 6
+    },
+    {
+        "id": 79101,
+        "name": "Prismatic Scale",
+        "subclass": 6
+    },
+    {
+        "id": 112157,
+        "name": "Prismatic Scale Fragment",
+        "subclass": 6
+    },
+    {
+        "id": 52980,
+        "name": "Pristine Hide",
+        "subclass": 6
+    },
+    {
+        "id": 110609,
+        "name": "Raw Beast Hide",
+        "subclass": 6
+    },
+    {
+        "id": 110610,
+        "name": "Raw Beast Hide Scraps",
+        "subclass": 6
+    },
+    {
+        "id": 15414,
+        "name": "Red Dragonscale",
+        "subclass": 6
+    },
+    {
+        "id": 52976,
+        "name": "Savage Leather",
+        "subclass": 6
+    },
+    {
+        "id": 52977,
+        "name": "Savage Leather Scraps",
+        "subclass": 6
+    },
+    {
+        "id": 15410,
+        "name": "Scale of Onyxia",
+        "subclass": 6
+    },
+    {
+        "id": 52981,
+        "name": "Scarred Shell Fragment",
+        "subclass": 6
+    },
+    {
+        "id": 72162,
+        "name": "Sha-Touched Leather",
+        "subclass": 6
+    },
+    {
+        "id": 153050,
+        "name": "Shimmerscale",
+        "subclass": 6
+    },
+    {
+        "id": 124113,
+        "name": "Stonehide Leather",
+        "subclass": 6
+    },
+    {
+        "id": 124115,
+        "name": "Stormscale",
+        "subclass": 6
+    },
+    {
+        "id": 154722,
+        "name": "Tempest Hide",
+        "subclass": 6
+    },
+    {
+        "id": 25708,
+        "name": "Thick Clefthoof Leather",
+        "subclass": 6
+    },
+    {
+        "id": 152576,
+        "name": "Tidespray Linen",
+        "subclass": 6
+    },
+    {
+        "id": 112185,
+        "name": "Wind Scale Fragment",
+        "subclass": 6
+    },
+    {
+        "id": 29547,
+        "name": "Wind Scales",
+        "subclass": 6
+    },
+    {
+        "id": 23446,
+        "name": "Adamantite Bar",
+        "subclass": 7
+    },
+    {
+        "id": 23425,
+        "name": "Adamantite Ore",
+        "subclass": 7
+    },
+    {
+        "id": 108302,
+        "name": "Adamantite Ore Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 72094,
+        "name": "Black Trillium Ore",
+        "subclass": 7
+    },
+    {
+        "id": 109992,
+        "name": "Blackrock Fragment",
+        "subclass": 7
+    },
+    {
+        "id": 109118,
+        "name": "Blackrock Ore",
+        "subclass": 7
+    },
+    {
+        "id": 36916,
+        "name": "Cobalt Bar",
+        "subclass": 7
+    },
+    {
+        "id": 36909,
+        "name": "Cobalt Ore",
+        "subclass": 7
+    },
+    {
+        "id": 108305,
+        "name": "Cobalt Ore Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 124461,
+        "name": "Demonsteel Bar",
+        "subclass": 7
+    },
+    {
+        "id": 18567,
+        "name": "Elemental Flux",
+        "subclass": 7
+    },
+    {
+        "id": 52186,
+        "name": "Elementium Bar",
+        "subclass": 7
+    },
+    {
+        "id": 18562,
+        "name": "Elementium Ingot",
+        "subclass": 7
+    },
+    {
+        "id": 52185,
+        "name": "Elementium Ore",
+        "subclass": 7
+    },
+    {
+        "id": 108308,
+        "name": "Elementium Ore Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 151564,
+        "name": "Empyrium",
+        "subclass": 7
+    },
+    {
+        "id": 17771,
+        "name": "Enchanted Elementium Bar",
+        "subclass": 7
+    },
+    {
+        "id": 12655,
+        "name": "Enchanted Thorium Bar",
+        "subclass": 7
+    },
+    {
+        "id": 23447,
+        "name": "Eternium Bar",
+        "subclass": 7
+    },
+    {
+        "id": 23427,
+        "name": "Eternium Ore",
+        "subclass": 7
+    },
+    {
+        "id": 108303,
+        "name": "Eternium Ore Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 23445,
+        "name": "Fel Iron Bar",
+        "subclass": 7
+    },
+    {
+        "id": 23424,
+        "name": "Fel Iron Ore",
+        "subclass": 7
+    },
+    {
+        "id": 108301,
+        "name": "Fel Iron Ore Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 123919,
+        "name": "Felslate",
+        "subclass": 7
+    },
+    {
+        "id": 23448,
+        "name": "Felsteel Bar",
+        "subclass": 7
+    },
+    {
+        "id": 65365,
+        "name": "Folded Obsidium",
+        "subclass": 7
+    },
+    {
+        "id": 72096,
+        "name": "Ghost Iron Bar",
+        "subclass": 7
+    },
+    {
+        "id": 97512,
+        "name": "Ghost Iron Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 72092,
+        "name": "Ghost Iron Ore",
+        "subclass": 7
+    },
+    {
+        "id": 12809,
+        "name": "Guardian Stone",
+        "subclass": 7
+    },
+    {
+        "id": 23573,
+        "name": "Hardened Adamantite Bar",
+        "subclass": 7
+    },
+    {
+        "id": 53039,
+        "name": "Hardened Elementium Bar",
+        "subclass": 7
+    },
+    {
+        "id": 35128,
+        "name": "Hardened Khorium",
+        "subclass": 7
+    },
+    {
+        "id": 124444,
+        "name": "Infernal Brimstone",
+        "subclass": 7
+    },
+    {
+        "id": 127413,
+        "name": "Jeweled Arakkoa Effigy",
+        "subclass": 7
+    },
+    {
+        "id": 152839,
+        "name": "Khaz'gorian Hammer",
+        "subclass": 7
+    },
+    {
+        "id": 23449,
+        "name": "Khorium Bar",
+        "subclass": 7
+    },
+    {
+        "id": 23426,
+        "name": "Khorium Ore",
+        "subclass": 7
+    },
+    {
+        "id": 108304,
+        "name": "Khorium Ore Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 72093,
+        "name": "Kyparite",
+        "subclass": 7
+    },
+    {
+        "id": 97546,
+        "name": "Kyparite Fragment",
+        "subclass": 7
+    },
+    {
+        "id": 123918,
+        "name": "Leystone Ore",
+        "subclass": 7
+    },
+    {
+        "id": 72104,
+        "name": "Living Steel",
+        "subclass": 7
+    },
+    {
+        "id": 152512,
+        "name": "Monelite Ore",
+        "subclass": 7
+    },
+    {
+        "id": 54849,
+        "name": "Obsidium Bar",
+        "subclass": 7
+    },
+    {
+        "id": 53038,
+        "name": "Obsidium Ore",
+        "subclass": 7
+    },
+    {
+        "id": 108307,
+        "name": "Obsidium Ore Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 152513,
+        "name": "Platinum Ore",
+        "subclass": 7
+    },
+    {
+        "id": 127389,
+        "name": "Polished Crystal",
+        "subclass": 7
+    },
+    {
+        "id": 127390,
+        "name": "Polished Crystal",
+        "subclass": 7
+    },
+    {
+        "id": 52183,
+        "name": "Pyrite Ore",
+        "subclass": 7
+    },
+    {
+        "id": 108309,
+        "name": "Pyrite Ore Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 51950,
+        "name": "Pyrium Bar",
+        "subclass": 7
+    },
+    {
+        "id": 36913,
+        "name": "Saronite Bar",
+        "subclass": 7
+    },
+    {
+        "id": 36912,
+        "name": "Saronite Ore",
+        "subclass": 7
+    },
+    {
+        "id": 108306,
+        "name": "Saronite Ore Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 152579,
+        "name": "Storm Silver Ore",
+        "subclass": 7
+    },
+    {
+        "id": 17203,
+        "name": "Sulfuron Ingot",
+        "subclass": 7
+    },
+    {
+        "id": 41163,
+        "name": "Titanium Bar",
+        "subclass": 7
+    },
+    {
+        "id": 36910,
+        "name": "Titanium Ore",
+        "subclass": 7
+    },
+    {
+        "id": 108391,
+        "name": "Titanium Ore Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 37663,
+        "name": "Titansteel Bar",
+        "subclass": 7
+    },
+    {
+        "id": 72095,
+        "name": "Trillium Bar",
+        "subclass": 7
+    },
+    {
+        "id": 109991,
+        "name": "True Iron Nugget",
+        "subclass": 7
+    },
+    {
+        "id": 109119,
+        "name": "True Iron Ore",
+        "subclass": 7
+    },
+    {
+        "id": 58480,
+        "name": "Truegold",
+        "subclass": 7
+    },
+    {
+        "id": 108257,
+        "name": "Truesteel Ingot",
+        "subclass": 7
+    },
+    {
+        "id": 72103,
+        "name": "White Trillium Ore",
+        "subclass": 7
+    },
+    {
+        "id": 74853,
+        "name": "00 Year Soy Sauce",
+        "subclass": 8
+    },
+    {
+        "id": 111664,
+        "name": "Abyssal Gulper Eel",
+        "subclass": 8
+    },
+    {
+        "id": 109143,
+        "name": "Abyssal Gulper Eel Flesh",
+        "subclass": 8
+    },
+    {
+        "id": 116818,
+        "name": "Abyssal Gulper Lunker",
+        "subclass": 8
+    },
+    {
+        "id": 102541,
+        "name": "Aged Balsamic Vinegar",
+        "subclass": 8
+    },
+    {
+        "id": 102543,
+        "name": "Aged Mogu'shan Cheese",
+        "subclass": 8
+    },
+    {
+        "id": 53065,
+        "name": "Albino Cavefish",
+        "subclass": 8
+    },
+    {
+        "id": 53071,
+        "name": "Algaefin Rockfish",
+        "subclass": 8
+    },
+    {
+        "id": 133742,
+        "name": "Ancient Black Barracuda",
+        "subclass": 8
+    },
+    {
+        "id": 139669,
+        "name": "Ancient Black Barracuda",
+        "subclass": 8
+    },
+    {
+        "id": 133733,
+        "name": "Ancient Highmountain Salmon",
+        "subclass": 8
+    },
+    {
+        "id": 139660,
+        "name": "Ancient Highmountain Salmon",
+        "subclass": 8
+    },
+    {
+        "id": 133730,
+        "name": "Ancient Mossgill",
+        "subclass": 8
+    },
+    {
+        "id": 139657,
+        "name": "Ancient Mossgill",
+        "subclass": 8
+    },
+    {
+        "id": 102542,
+        "name": "Ancient Pandaren Spices",
+        "subclass": 8
+    },
+    {
+        "id": 160711,
+        "name": "Aromatic Fish Oil",
+        "subclass": 8
+    },
+    {
+        "id": 133740,
+        "name": "Axefish",
+        "subclass": 8
+    },
+    {
+        "id": 139667,
+        "name": "Axefish",
+        "subclass": 8
+    },
+    {
+        "id": 27422,
+        "name": "Barbed Gill Trout",
+        "subclass": 8
+    },
+    {
+        "id": 74832,
+        "name": "Barley",
+        "subclass": 8
+    },
+    {
+        "id": 41812,
+        "name": "Barrelhead Goby",
+        "subclass": 8
+    },
+    {
+        "id": 62783,
+        "name": "Basilisk \"Liver\"",
+        "subclass": 8
+    },
+    {
+        "id": 138967,
+        "name": "Big Fountain Goldfish",
+        "subclass": 8
+    },
+    {
+        "id": 124119,
+        "name": "Big Gamy Ribs",
+        "subclass": 8
+    },
+    {
+        "id": 124112,
+        "name": "Black Barracuda",
+        "subclass": 8
+    },
+    {
+        "id": 74661,
+        "name": "Black Pepper",
+        "subclass": 8
+    },
+    {
+        "id": 53066,
+        "name": "Blackbelly Mudfish",
+        "subclass": 8
+    },
+    {
+        "id": 111663,
+        "name": "Blackwater Whiptail",
+        "subclass": 8
+    },
+    {
+        "id": 109144,
+        "name": "Blackwater Whiptail Flesh",
+        "subclass": 8
+    },
+    {
+        "id": 116817,
+        "name": "Blackwater Whiptail Lunker",
+        "subclass": 8
+    },
+    {
+        "id": 116820,
+        "name": "Blind Lake Lunker",
+        "subclass": 8
+    },
+    {
+        "id": 111667,
+        "name": "Blind Lake Sturgeon",
+        "subclass": 8
+    },
+    {
+        "id": 109140,
+        "name": "Blind Lake Sturgeon Flesh",
+        "subclass": 8
+    },
+    {
+        "id": 62791,
+        "name": "Blood Shrimp",
+        "subclass": 8
+    },
+    {
+        "id": 33823,
+        "name": "Bloodfin Catfish",
+        "subclass": 8
+    },
+    {
+        "id": 41808,
+        "name": "Bonescale Snapper",
+        "subclass": 8
+    },
+    {
+        "id": 41805,
+        "name": "Borean Man O' War",
+        "subclass": 8
+    },
+    {
+        "id": 152631,
+        "name": "Briny Flesh",
+        "subclass": 8
+    },
+    {
+        "id": 27671,
+        "name": "Buzzard Meat",
+        "subclass": 8
+    },
+    {
+        "id": 43013,
+        "name": "Chilled Meat",
+        "subclass": 8
+    },
+    {
+        "id": 21024,
+        "name": "Chimaerok Tenderloin",
+        "subclass": 8
+    },
+    {
+        "id": 160398,
+        "name": "Choral Honey",
+        "subclass": 8
+    },
+    {
+        "id": 27677,
+        "name": "Chunk o' Basilisk",
+        "subclass": 8
+    },
+    {
+        "id": 34736,
+        "name": "Chunk o' Mammoth",
+        "subclass": 8
+    },
+    {
+        "id": 27678,
+        "name": "Clefthoof Meat",
+        "subclass": 8
+    },
+    {
+        "id": 133732,
+        "name": "Coldriver Carp",
+        "subclass": 8
+    },
+    {
+        "id": 139659,
+        "name": "Coldriver Carp",
+        "subclass": 8
+    },
+    {
+        "id": 111595,
+        "name": "Crescent Saberfish",
+        "subclass": 8
+    },
+    {
+        "id": 109137,
+        "name": "Crescent Saberfish Flesh",
+        "subclass": 8
+    },
+    {
+        "id": 33824,
+        "name": "Crescent-Tail Skullfish",
+        "subclass": 8
+    },
+    {
+        "id": 62784,
+        "name": "Crocolisk Tail",
+        "subclass": 8
+    },
+    {
+        "id": 163782,
+        "name": "Cursed Haunch",
+        "subclass": 8
+    },
+    {
+        "id": 124107,
+        "name": "Cursed Queenfish",
+        "subclass": 8
+    },
+    {
+        "id": 41800,
+        "name": "Deep Sea Monsterbelly",
+        "subclass": 8
+    },
+    {
+        "id": 53072,
+        "name": "Deepsea Sagefish",
+        "subclass": 8
+    },
+    {
+        "id": 79246,
+        "name": "Delicate Blossom Petals",
+        "subclass": 8
+    },
+    {
+        "id": 62785,
+        "name": "Delicate Wing",
+        "subclass": 8
+    },
+    {
+        "id": 62782,
+        "name": "Dragon Flank",
+        "subclass": 8
+    },
+    {
+        "id": 41807,
+        "name": "Dragonfin Angelfish",
+        "subclass": 8
+    },
+    {
+        "id": 74859,
+        "name": "Emperor Salmon",
+        "subclass": 8
+    },
+    {
+        "id": 111671,
+        "name": "Enormous Abyssal Gulper Eel",
+        "subclass": 8
+    },
+    {
+        "id": 111670,
+        "name": "Enormous Blackwater Whiptail",
+        "subclass": 8
+    },
+    {
+        "id": 111674,
+        "name": "Enormous Blind Lake Sturgeon",
+        "subclass": 8
+    },
+    {
+        "id": 111601,
+        "name": "Enormous Crescent Saberfish",
+        "subclass": 8
+    },
+    {
+        "id": 111675,
+        "name": "Enormous Fat Sleeper",
+        "subclass": 8
+    },
+    {
+        "id": 111673,
+        "name": "Enormous Fire Ammonite",
+        "subclass": 8
+    },
+    {
+        "id": 111676,
+        "name": "Enormous Jawless Skulker",
+        "subclass": 8
+    },
+    {
+        "id": 111672,
+        "name": "Enormous Sea Scorpion",
+        "subclass": 8
+    },
+    {
+        "id": 142336,
+        "name": "Falcosaur Egg",
+        "subclass": 8
+    },
+    {
+        "id": 41810,
+        "name": "Fangtooth Herring",
+        "subclass": 8
+    },
+    {
+        "id": 74659,
+        "name": "Farm Chicken",
+        "subclass": 8
+    },
+    {
+        "id": 111668,
+        "name": "Fat Sleeper",
+        "subclass": 8
+    },
+    {
+        "id": 109139,
+        "name": "Fat Sleeper Flesh",
+        "subclass": 8
+    },
+    {
+        "id": 116821,
+        "name": "Fat Sleeper Lunker",
+        "subclass": 8
+    },
+    {
+        "id": 53070,
+        "name": "Fathom Eel",
+        "subclass": 8
+    },
+    {
+        "id": 124118,
+        "name": "Fatty Bearsteak",
+        "subclass": 8
+    },
+    {
+        "id": 128499,
+        "name": "Fel Egg",
+        "subclass": 8
+    },
+    {
+        "id": 128500,
+        "name": "Fel Ham",
+        "subclass": 8
+    },
+    {
+        "id": 127991,
+        "name": "Felmouth Frenzy",
+        "subclass": 8
+    },
+    {
+        "id": 127994,
+        "name": "Felmouth Frenzy Lunker",
+        "subclass": 8
+    },
+    {
+        "id": 27435,
+        "name": "Figluster's Mudfish",
+        "subclass": 8
+    },
+    {
+        "id": 111666,
+        "name": "Fire Ammonite",
+        "subclass": 8
+    },
+    {
+        "id": 116819,
+        "name": "Fire Ammonite Lunker",
+        "subclass": 8
+    },
+    {
+        "id": 109141,
+        "name": "Fire Ammonite Tentacle",
+        "subclass": 8
+    },
+    {
+        "id": 160400,
+        "name": "Foosaka",
+        "subclass": 8
+    },
+    {
+        "id": 43646,
+        "name": "Fountain Goldfish",
+        "subclass": 8
+    },
+    {
+        "id": 152545,
+        "name": "Frenzied Fangtooth",
+        "subclass": 8
+    },
+    {
+        "id": 102536,
+        "name": "Fresh Lushroom",
+        "subclass": 8
+    },
+    {
+        "id": 102540,
+        "name": "Fresh Mangos",
+        "subclass": 8
+    },
+    {
+        "id": 79250,
+        "name": "Fresh Pomfruit",
+        "subclass": 8
+    },
+    {
+        "id": 160709,
+        "name": "Fresh Potato",
+        "subclass": 8
+    },
+    {
+        "id": 102538,
+        "name": "Fresh Shao-Tien Rice",
+        "subclass": 8
+    },
+    {
+        "id": 102537,
+        "name": "Fresh Silkfeather Hawk Eggs",
+        "subclass": 8
+    },
+    {
+        "id": 102539,
+        "name": "Fresh Strawberries",
+        "subclass": 8
+    },
+    {
+        "id": 27439,
+        "name": "Furious Crawdad",
+        "subclass": 8
+    },
+    {
+        "id": 133727,
+        "name": "Ghostly Queenfish",
+        "subclass": 8
+    },
+    {
+        "id": 139654,
+        "name": "Ghostly Queenfish",
+        "subclass": 8
+    },
+    {
+        "id": 74857,
+        "name": "Giant Mantis Shrimp",
+        "subclass": 8
+    },
+    {
+        "id": 35285,
+        "name": "Giant Sunfish",
+        "subclass": 8
+    },
+    {
+        "id": 62781,
+        "name": "Giant Turtle Tongue",
+        "subclass": 8
+    },
+    {
+        "id": 74845,
+        "name": "Ginseng",
+        "subclass": 8
+    },
+    {
+        "id": 41809,
+        "name": "Glacial Salmon",
+        "subclass": 8
+    },
+    {
+        "id": 41814,
+        "name": "Glassfin Minnow",
+        "subclass": 8
+    },
+    {
+        "id": 74866,
+        "name": "Golden Carp",
+        "subclass": 8
+    },
+    {
+        "id": 27438,
+        "name": "Golden Darter",
+        "subclass": 8
+    },
+    {
+        "id": 133735,
+        "name": "Graybelly Lobster",
+        "subclass": 8
+    },
+    {
+        "id": 139662,
+        "name": "Graybelly Lobster",
+        "subclass": 8
+    },
+    {
+        "id": 152547,
+        "name": "Great Sea Catfish",
+        "subclass": 8
+    },
+    {
+        "id": 74840,
+        "name": "Green Cabbage",
+        "subclass": 8
+    },
+    {
+        "id": 53064,
+        "name": "Highland Guppy",
+        "subclass": 8
+    },
+    {
+        "id": 124109,
+        "name": "Highmountain Salmon",
+        "subclass": 8
+    },
+    {
+        "id": 27437,
+        "name": "Icefin Bluefish",
+        "subclass": 8
+    },
+    {
+        "id": 41802,
+        "name": "Imperial Manta Ray",
+        "subclass": 8
+    },
+    {
+        "id": 74854,
+        "name": "Instant Noodles",
+        "subclass": 8
+    },
+    {
+        "id": 74856,
+        "name": "Jade Lungfish",
+        "subclass": 8
+    },
+    {
+        "id": 74847,
+        "name": "Jade Squash",
+        "subclass": 8
+    },
+    {
+        "id": 24477,
+        "name": "Jaggal Clam Meat",
+        "subclass": 8
+    },
+    {
+        "id": 111669,
+        "name": "Jawless Skulker",
+        "subclass": 8
+    },
+    {
+        "id": 109138,
+        "name": "Jawless Skulker Flesh",
+        "subclass": 8
+    },
+    {
+        "id": 116822,
+        "name": "Jawless Skulker Lunker",
+        "subclass": 8
+    },
+    {
+        "id": 74863,
+        "name": "Jewel Danio",
+        "subclass": 8
+    },
+    {
+        "id": 74841,
+        "name": "Juicycrunch Carrot",
+        "subclass": 8
+    },
+    {
+        "id": 74865,
+        "name": "Krasarang Paddlefish",
+        "subclass": 8
+    },
+    {
+        "id": 152546,
+        "name": "Lane Snapper",
+        "subclass": 8
+    },
+    {
+        "id": 53068,
+        "name": "Lavascale Catfish",
+        "subclass": 8
+    },
+    {
+        "id": 124117,
+        "name": "Lean Shank",
+        "subclass": 8
+    },
+    {
+        "id": 124120,
+        "name": "Leyblood",
+        "subclass": 8
+    },
+    {
+        "id": 133725,
+        "name": "Leyshimmer Blenny",
+        "subclass": 8
+    },
+    {
+        "id": 139652,
+        "name": "Leyshimmer Blenny",
+        "subclass": 8
+    },
+    {
+        "id": 43572,
+        "name": "Magic Eater",
+        "subclass": 8
+    },
+    {
+        "id": 133737,
+        "name": "Magic-Eater Frog",
+        "subclass": 8
+    },
+    {
+        "id": 139664,
+        "name": "Magic-Eater Frog",
+        "subclass": 8
+    },
+    {
+        "id": 154898,
+        "name": "Meaty Haunch",
+        "subclass": 8
+    },
+    {
+        "id": 74842,
+        "name": "Mogu Pumpkin",
+        "subclass": 8
+    },
+    {
+        "id": 62779,
+        "name": "Monstrous Claw",
+        "subclass": 8
+    },
+    {
+        "id": 41801,
+        "name": "Moonglow Cuttlefish",
+        "subclass": 8
+    },
+    {
+        "id": 124108,
+        "name": "Mossgill Perch",
+        "subclass": 8
+    },
+    {
+        "id": 133731,
+        "name": "Mountain Puffer",
+        "subclass": 8
+    },
+    {
+        "id": 139658,
+        "name": "Mountain Puffer",
+        "subclass": 8
+    },
+    {
+        "id": 53063,
+        "name": "Mountain Trout",
+        "subclass": 8
+    },
+    {
+        "id": 53069,
+        "name": "Murglesnout",
+        "subclass": 8
+    },
+    {
+        "id": 74834,
+        "name": "Mushan Ribs",
+        "subclass": 8
+    },
+    {
+        "id": 41806,
+        "name": "Musselback Sculpin",
+        "subclass": 8
+    },
+    {
+        "id": 133726,
+        "name": "Nar'thalas Hermit",
+        "subclass": 8
+    },
+    {
+        "id": 139653,
+        "name": "Nar'thalas Hermit",
+        "subclass": 8
+    },
+    {
+        "id": 85583,
+        "name": "Needle Mushrooms",
+        "subclass": 8
+    },
+    {
+        "id": 41813,
+        "name": "Nettlefish",
+        "subclass": 8
+    },
+    {
+        "id": 43501,
+        "name": "Northern Egg",
+        "subclass": 8
+    },
+    {
+        "id": 133734,
+        "name": "Oodelfjisk",
+        "subclass": 8
+    },
+    {
+        "id": 139661,
+        "name": "Oodelfjisk",
+        "subclass": 8
+    },
+    {
+        "id": 74660,
+        "name": "Pandaren Peach",
+        "subclass": 8
+    },
+    {
+        "id": 74849,
+        "name": "Pink Turnip",
+        "subclass": 8
+    },
+    {
+        "id": 160712,
+        "name": "Powdered Sugar",
+        "subclass": 8
+    },
+    {
+        "id": 146757,
+        "name": "Prepared Ingredients",
+        "subclass": 8
+    },
+    {
+        "id": 31670,
+        "name": "Raptor Ribs",
+        "subclass": 8
+    },
+    {
+        "id": 27674,
+        "name": "Ravager Flesh",
+        "subclass": 8
+    },
+    {
+        "id": 109136,
+        "name": "Raw Boar Meat",
+        "subclass": 8
+    },
+    {
+        "id": 109131,
+        "name": "Raw Clefthoof Meat",
+        "subclass": 8
+    },
+    {
+        "id": 74838,
+        "name": "Raw Crab Meat",
+        "subclass": 8
+    },
+    {
+        "id": 75014,
+        "name": "Raw Crocolisk Belly",
+        "subclass": 8
+    },
+    {
+        "id": 109134,
+        "name": "Raw Elekk Meat",
+        "subclass": 8
+    },
+    {
+        "id": 109135,
+        "name": "Raw Riverbeast Meat",
+        "subclass": 8
+    },
+    {
+        "id": 109132,
+        "name": "Raw Talbuk Meat",
+        "subclass": 8
+    },
+    {
+        "id": 74833,
+        "name": "Raw Tiger Steak",
+        "subclass": 8
+    },
+    {
+        "id": 74837,
+        "name": "Raw Turtle Meat",
+        "subclass": 8
+    },
+    {
+        "id": 85585,
+        "name": "Red Beans",
+        "subclass": 8
+    },
+    {
+        "id": 74844,
+        "name": "Red Blossom Leek",
+        "subclass": 8
+    },
+    {
+        "id": 74860,
+        "name": "Redbelly Mandarin",
+        "subclass": 8
+    },
+    {
+        "id": 152549,
+        "name": "Redtail Loach",
+        "subclass": 8
+    },
+    {
+        "id": 74864,
+        "name": "Reef Octopus",
+        "subclass": 8
+    },
+    {
+        "id": 43012,
+        "name": "Rhino Meat",
+        "subclass": 8
+    },
+    {
+        "id": 74851,
+        "name": "Rice",
+        "subclass": 8
+    },
+    {
+        "id": 74662,
+        "name": "Rice Flour",
+        "subclass": 8
+    },
+    {
+        "id": 41803,
+        "name": "Rockfin Grouper",
+        "subclass": 8
+    },
+    {
+        "id": 124111,
+        "name": "Runescale Koi",
+        "subclass": 8
+    },
+    {
+        "id": 109133,
+        "name": "Rylak Egg",
+        "subclass": 8
+    },
+    {
+        "id": 152543,
+        "name": "Sand Shifter",
+        "subclass": 8
+    },
+    {
+        "id": 118565,
+        "name": "Savage Piranha",
+        "subclass": 8
+    },
+    {
+        "id": 74843,
+        "name": "Scallions",
+        "subclass": 8
+    },
+    {
+        "id": 111665,
+        "name": "Sea Scorpion",
+        "subclass": 8
+    },
+    {
+        "id": 122696,
+        "name": "Sea Scorpion Lunker",
+        "subclass": 8
+    },
+    {
+        "id": 109142,
+        "name": "Sea Scorpion Segment",
+        "subclass": 8
+    },
+    {
+        "id": 133741,
+        "name": "Seabottom Squid",
+        "subclass": 8
+    },
+    {
+        "id": 139668,
+        "name": "Seabottom Squid",
+        "subclass": 8
+    },
+    {
+        "id": 133738,
+        "name": "Seerspine Puffer",
+        "subclass": 8
+    },
+    {
+        "id": 139665,
+        "name": "Seerspine Puffer",
+        "subclass": 8
+    },
+    {
+        "id": 31671,
+        "name": "Serpent Flesh",
+        "subclass": 8
+    },
+    {
+        "id": 43571,
+        "name": "Sewer Carp",
+        "subclass": 8
+    },
+    {
+        "id": 53062,
+        "name": "Sharptooth",
+        "subclass": 8
+    },
+    {
+        "id": 43647,
+        "name": "Shimmering Minnow",
+        "subclass": 8
+    },
+    {
+        "id": 43009,
+        "name": "Shoveltusk Flank",
+        "subclass": 8
+    },
+    {
+        "id": 85584,
+        "name": "Silkworm Pupa",
+        "subclass": 8
+    },
+    {
+        "id": 133607,
+        "name": "Silver Mackerel",
+        "subclass": 8
+    },
+    {
+        "id": 35794,
+        "name": "Silvercoat Stag Meat",
+        "subclass": 8
+    },
+    {
+        "id": 133680,
+        "name": "Slice of Bacon",
+        "subclass": 8
+    },
+    {
+        "id": 152544,
+        "name": "Slimy Mackerel",
+        "subclass": 8
+    },
+    {
+        "id": 43652,
+        "name": "Slippery Eel",
+        "subclass": 8
+    },
+    {
+        "id": 111659,
+        "name": "Small Abyssal Gulper Eel",
+        "subclass": 8
+    },
+    {
+        "id": 111662,
+        "name": "Small Blackwater Whiptail",
+        "subclass": 8
+    },
+    {
+        "id": 111652,
+        "name": "Small Blind Lake Sturgeon",
+        "subclass": 8
+    },
+    {
+        "id": 111589,
+        "name": "Small Crescent Saberfish",
+        "subclass": 8
+    },
+    {
+        "id": 111651,
+        "name": "Small Fat Sleeper",
+        "subclass": 8
+    },
+    {
+        "id": 111656,
+        "name": "Small Fire Ammonite",
+        "subclass": 8
+    },
+    {
+        "id": 111650,
+        "name": "Small Jawless Skulker",
+        "subclass": 8
+    },
+    {
+        "id": 111658,
+        "name": "Small Sea Scorpion",
+        "subclass": 8
+    },
+    {
+        "id": 62780,
+        "name": "Snake Eye",
+        "subclass": 8
+    },
+    {
+        "id": 27425,
+        "name": "Spotted Feltail",
+        "subclass": 8
+    },
+    {
+        "id": 124110,
+        "name": "Stormray",
+        "subclass": 8
+    },
+    {
+        "id": 154897,
+        "name": "Stringy Loins",
+        "subclass": 8
+    },
+    {
+        "id": 53067,
+        "name": "Striped Lurker",
+        "subclass": 8
+    },
+    {
+        "id": 74848,
+        "name": "Striped Melon",
+        "subclass": 8
+    },
+    {
+        "id": 36782,
+        "name": "Succulent Clam Meat",
+        "subclass": 8
+    },
+    {
+        "id": 133739,
+        "name": "Tainted Runescale Koi",
+        "subclass": 8
+    },
+    {
+        "id": 139666,
+        "name": "Tainted Runescale Koi",
+        "subclass": 8
+    },
+    {
+        "id": 27682,
+        "name": "Talbuk Venison",
+        "subclass": 8
+    },
+    {
+        "id": 133728,
+        "name": "Terrorfin",
+        "subclass": 8
+    },
+    {
+        "id": 139655,
+        "name": "Terrorfin",
+        "subclass": 8
+    },
+    {
+        "id": 154899,
+        "name": "Thick Paleo Steak",
+        "subclass": 8
+    },
+    {
+        "id": 135512,
+        "name": "Thick Slab of Bacon",
+        "subclass": 8
+    },
+    {
+        "id": 133729,
+        "name": "Thorned Flounder",
+        "subclass": 8
+    },
+    {
+        "id": 139656,
+        "name": "Thorned Flounder",
+        "subclass": 8
+    },
+    {
+        "id": 133736,
+        "name": "Thundering Stormray",
+        "subclass": 8
+    },
+    {
+        "id": 139663,
+        "name": "Thundering Stormray",
+        "subclass": 8
+    },
+    {
+        "id": 74861,
+        "name": "Tiger Gourami",
+        "subclass": 8
+    },
+    {
+        "id": 152548,
+        "name": "Tiragarde Perch",
+        "subclass": 8
+    },
+    {
+        "id": 62778,
+        "name": "Toughened Flesh",
+        "subclass": 8
+    },
+    {
+        "id": 85506,
+        "name": "Viseclaw Meat",
+        "subclass": 8
+    },
+    {
+        "id": 27681,
+        "name": "Warped Flesh",
+        "subclass": 8
+    },
+    {
+        "id": 74850,
+        "name": "White Turnip",
+        "subclass": 8
+    },
+    {
+        "id": 160710,
+        "name": "Wild Berries",
+        "subclass": 8
+    },
+    {
+        "id": 160399,
+        "name": "Wild Flour",
+        "subclass": 8
+    },
+    {
+        "id": 74839,
+        "name": "Wildfowl Breast",
+        "subclass": 8
+    },
+    {
+        "id": 124121,
+        "name": "Wildfowl Egg",
+        "subclass": 8
+    },
+    {
+        "id": 74846,
+        "name": "Witchberries",
+        "subclass": 8
+    },
+    {
+        "id": 43011,
+        "name": "Worg Haunch",
+        "subclass": 8
+    },
+    {
+        "id": 43010,
+        "name": "Worm Meat",
+        "subclass": 8
+    },
+    {
+        "id": 74852,
+        "name": "Yak Milk",
+        "subclass": 8
+    },
+    {
+        "id": 27429,
+        "name": "Zangarian Sporefish",
+        "subclass": 8
+    },
+    {
+        "id": 36903,
+        "name": "Adder's Tongue",
+        "subclass": 9
+    },
+    {
+        "id": 108353,
+        "name": "Adder's Tongue Stem",
+        "subclass": 9
+    },
+    {
+        "id": 124101,
+        "name": "Aethril",
+        "subclass": 9
+    },
+    {
+        "id": 129284,
+        "name": "Aethril Seed",
+        "subclass": 9
+    },
+    {
+        "id": 152507,
+        "name": "Akunda's Bite",
+        "subclass": 9
+    },
+    {
+        "id": 152510,
+        "name": "Anchor Weed",
+        "subclass": 9
+    },
+    {
+        "id": 22790,
+        "name": "Ancient Lichen",
+        "subclass": 9
+    },
+    {
+        "id": 108348,
+        "name": "Ancient Lichen Petal",
+        "subclass": 9
+    },
+    {
+        "id": 151565,
+        "name": "Astral Glory",
+        "subclass": 9
+    },
+    {
+        "id": 52985,
+        "name": "Azshara's Veil",
+        "subclass": 9
+    },
+    {
+        "id": 108362,
+        "name": "Azshara's Veil Stem",
+        "subclass": 9
+    },
+    {
+        "id": 13468,
+        "name": "Black Lotus",
+        "subclass": 9
+    },
+    {
+        "id": 19727,
+        "name": "Blood Scythe",
+        "subclass": 9
+    },
+    {
+        "id": 19726,
+        "name": "Bloodvine",
+        "subclass": 9
+    },
+    {
+        "id": 109625,
+        "name": "Broken Fireweed Stem",
+        "subclass": 9
+    },
+    {
+        "id": 109624,
+        "name": "Broken Frostweed Stem",
+        "subclass": 9
+    },
+    {
+        "id": 52983,
+        "name": "Cinderbloom",
+        "subclass": 9
+    },
+    {
+        "id": 108360,
+        "name": "Cinderbloom Petal",
+        "subclass": 9
+    },
+    {
+        "id": 36902,
+        "name": "Constrictor Grass",
+        "subclass": 9
+    },
+    {
+        "id": 37921,
+        "name": "Deadnettle",
+        "subclass": 9
+    },
+    {
+        "id": 108358,
+        "name": "Deadnettle Bramble",
+        "subclass": 9
+    },
+    {
+        "id": 97624,
+        "name": "Desecrated Herb Pod",
+        "subclass": 9
+    },
+    {
+        "id": 22786,
+        "name": "Dreaming Glory",
+        "subclass": 9
+    },
+    {
+        "id": 108345,
+        "name": "Dreaming Glory Petal",
+        "subclass": 9
+    },
+    {
+        "id": 124102,
+        "name": "Dreamleaf",
+        "subclass": 9
+    },
+    {
+        "id": 129285,
+        "name": "Dreamleaf Seed",
+        "subclass": 9
+    },
+    {
+        "id": 22794,
+        "name": "Fel Lotus",
+        "subclass": 9
+    },
+    {
+        "id": 22785,
+        "name": "Felweed",
+        "subclass": 9
+    },
+    {
+        "id": 108344,
+        "name": "Felweed Stalk",
+        "subclass": 9
+    },
+    {
+        "id": 124106,
+        "name": "Felwort",
+        "subclass": 9
+    },
+    {
+        "id": 129289,
+        "name": "Felwort Seed",
+        "subclass": 9
+    },
+    {
+        "id": 39970,
+        "name": "Fire Leaf",
+        "subclass": 9
+    },
+    {
+        "id": 108359,
+        "name": "Fire Leaf Bramble",
+        "subclass": 9
+    },
+    {
+        "id": 109125,
+        "name": "Fireweed",
+        "subclass": 9
+    },
+    {
+        "id": 124104,
+        "name": "Fjarnskaggl",
+        "subclass": 9
+    },
+    {
+        "id": 129287,
+        "name": "Fjarnskaggl Seed",
+        "subclass": 9
+    },
+    {
+        "id": 22788,
+        "name": "Flame Cap",
+        "subclass": 9
+    },
+    {
+        "id": 79011,
+        "name": "Fool's Cap",
+        "subclass": 9
+    },
+    {
+        "id": 97623,
+        "name": "Fool's Cap Spores",
+        "subclass": 9
+    },
+    {
+        "id": 124103,
+        "name": "Foxflower",
+        "subclass": 9
+    },
+    {
+        "id": 129286,
+        "name": "Foxflower Seed",
+        "subclass": 9
+    },
+    {
+        "id": 36908,
+        "name": "Frost Lotus",
+        "subclass": 9
+    },
+    {
+        "id": 109124,
+        "name": "Frostweed",
+        "subclass": 9
+    },
+    {
+        "id": 36901,
+        "name": "Goldclover",
+        "subclass": 9
+    },
+    {
+        "id": 108352,
+        "name": "Goldclover Leaf",
+        "subclass": 9
+    },
+    {
+        "id": 72238,
+        "name": "Golden Lotus",
+        "subclass": 9
+    },
+    {
+        "id": 109126,
+        "name": "Gorgrond Flytrap",
+        "subclass": 9
+    },
+    {
+        "id": 109626,
+        "name": "Gorgrond Flytrap Ichor",
+        "subclass": 9
+    },
+    {
+        "id": 72234,
+        "name": "Green Tea Leaf",
+        "subclass": 9
+    },
+    {
+        "id": 52986,
+        "name": "Heartblossom",
+        "subclass": 9
+    },
+    {
+        "id": 108363,
+        "name": "Heartblossom Petal",
+        "subclass": 9
+    },
+    {
+        "id": 13467,
+        "name": "Icecap",
+        "subclass": 9
+    },
+    {
+        "id": 108343,
+        "name": "Icecap Petal",
+        "subclass": 9
+    },
+    {
+        "id": 36906,
+        "name": "Icethorn",
+        "subclass": 9
+    },
+    {
+        "id": 108356,
+        "name": "Icethorn Bramble",
+        "subclass": 9
+    },
+    {
+        "id": 36905,
+        "name": "Lichbloom",
+        "subclass": 9
+    },
+    {
+        "id": 108355,
+        "name": "Lichbloom Stalk",
+        "subclass": 9
+    },
+    {
+        "id": 22793,
+        "name": "Mana Thistle",
+        "subclass": 9
+    },
+    {
+        "id": 108351,
+        "name": "Mana Thistle Leaf",
+        "subclass": 9
+    },
+    {
+        "id": 13465,
+        "name": "Mountain Silversage",
+        "subclass": 9
+    },
+    {
+        "id": 108341,
+        "name": "Mountain Silversage Stalk",
+        "subclass": 9
+    },
+    {
+        "id": 109128,
+        "name": "Nagrand Arrowbloom",
+        "subclass": 9
+    },
+    {
+        "id": 109628,
+        "name": "Nagrand Arrowbloom Petal",
+        "subclass": 9
+    },
+    {
+        "id": 22791,
+        "name": "Netherbloom",
+        "subclass": 9
+    },
+    {
+        "id": 108349,
+        "name": "Netherbloom Leaf",
+        "subclass": 9
+    },
+    {
+        "id": 22797,
+        "name": "Nightmare Seed",
+        "subclass": 9
+    },
+    {
+        "id": 22792,
+        "name": "Nightmare Vine",
+        "subclass": 9
+    },
+    {
+        "id": 108350,
+        "name": "Nightmare Vine Stem",
+        "subclass": 9
+    },
+    {
+        "id": 22787,
+        "name": "Ragveil",
+        "subclass": 9
+    },
+    {
+        "id": 108346,
+        "name": "Ragveil Cap",
+        "subclass": 9
+    },
+    {
+        "id": 72237,
+        "name": "Rain Poppy",
+        "subclass": 9
+    },
+    {
+        "id": 97620,
+        "name": "Rain Poppy Petal",
+        "subclass": 9
+    },
+    {
+        "id": 152505,
+        "name": "Riverbud",
+        "subclass": 9
+    },
+    {
+        "id": 152511,
+        "name": "Sea Stalk",
+        "subclass": 9
+    },
+    {
+        "id": 72235,
+        "name": "Silkweed",
+        "subclass": 9
+    },
+    {
+        "id": 97621,
+        "name": "Silkweed Stem",
+        "subclass": 9
+    },
+    {
+        "id": 152509,
+        "name": "Siren's Pollen",
+        "subclass": 9
+    },
+    {
+        "id": 79010,
+        "name": "Snow Lily",
+        "subclass": 9
+    },
+    {
+        "id": 97622,
+        "name": "Snow Lily Petal",
+        "subclass": 9
+    },
+    {
+        "id": 13466,
+        "name": "Sorrowmoss",
+        "subclass": 9
+    },
+    {
+        "id": 108342,
+        "name": "Sorrowmoss Leaf",
+        "subclass": 9
+    },
+    {
+        "id": 152506,
+        "name": "Star Moss",
+        "subclass": 9
+    },
+    {
+        "id": 109127,
+        "name": "Starflower",
+        "subclass": 9
+    },
+    {
+        "id": 109627,
+        "name": "Starflower Petal",
+        "subclass": 9
+    },
+    {
+        "id": 124105,
+        "name": "Starlight Rose",
+        "subclass": 9
+    },
+    {
+        "id": 129288,
+        "name": "Starlight Rose Seed",
+        "subclass": 9
+    },
+    {
+        "id": 52984,
+        "name": "Stormvine",
+        "subclass": 9
+    },
+    {
+        "id": 108361,
+        "name": "Stormvine Stalk",
+        "subclass": 9
+    },
+    {
+        "id": 109129,
+        "name": "Talador Orchid",
+        "subclass": 9
+    },
+    {
+        "id": 109629,
+        "name": "Talador Orchid Petal",
+        "subclass": 9
+    },
+    {
+        "id": 36907,
+        "name": "Talandra's Rose",
+        "subclass": 9
+    },
+    {
+        "id": 108357,
+        "name": "Talandra's Rose Petal",
+        "subclass": 9
+    },
+    {
+        "id": 22789,
+        "name": "Terocone",
+        "subclass": 9
+    },
+    {
+        "id": 108347,
+        "name": "Terocone Leaf",
+        "subclass": 9
+    },
+    {
+        "id": 36904,
+        "name": "Tiger Lily",
+        "subclass": 9
+    },
+    {
+        "id": 108354,
+        "name": "Tiger Lily Petal",
+        "subclass": 9
+    },
+    {
+        "id": 97619,
+        "name": "Torn Green Tea Leaf",
+        "subclass": 9
+    },
+    {
+        "id": 52987,
+        "name": "Twilight Jasmine",
+        "subclass": 9
+    },
+    {
+        "id": 108364,
+        "name": "Twilight Jasmine Petal",
+        "subclass": 9
+    },
+    {
+        "id": 52988,
+        "name": "Whiptail",
+        "subclass": 9
+    },
+    {
+        "id": 108365,
+        "name": "Whiptail Stem",
+        "subclass": 9
+    },
+    {
+        "id": 152508,
+        "name": "Winter's Kiss",
+        "subclass": 9
+    },
+    {
+        "id": 128304,
+        "name": "Yseralline Seed",
+        "subclass": 9
+    },
+    {
+        "id": 124124,
+        "name": "Blood of Sargeras",
+        "subclass": 10
+    },
+    {
+        "id": 37700,
+        "name": "Crystallized Air",
+        "subclass": 10
+    },
+    {
+        "id": 37701,
+        "name": "Crystallized Earth",
+        "subclass": 10
+    },
+    {
+        "id": 37702,
+        "name": "Crystallized Fire",
+        "subclass": 10
+    },
+    {
+        "id": 37704,
+        "name": "Crystallized Life",
+        "subclass": 10
+    },
+    {
+        "id": 37703,
+        "name": "Crystallized Shadow",
+        "subclass": 10
+    },
+    {
+        "id": 37705,
+        "name": "Crystallized Water",
+        "subclass": 10
+    },
+    {
+        "id": 124123,
+        "name": "Demonfire",
+        "subclass": 10
+    },
+    {
+        "id": 35623,
+        "name": "Eternal Air",
+        "subclass": 10
+    },
+    {
+        "id": 35624,
+        "name": "Eternal Earth",
+        "subclass": 10
+    },
+    {
+        "id": 36860,
+        "name": "Eternal Fire",
+        "subclass": 10
+    },
+    {
+        "id": 35625,
+        "name": "Eternal Life",
+        "subclass": 10
+    },
+    {
+        "id": 35627,
+        "name": "Eternal Shadow",
+        "subclass": 10
+    },
+    {
+        "id": 35622,
+        "name": "Eternal Water",
+        "subclass": 10
+    },
+    {
+        "id": 152668,
+        "name": "Expulsom",
+        "subclass": 10
+    },
+    {
+        "id": 162460,
+        "name": "Hydrocore",
+        "subclass": 10
+    },
+    {
+        "id": 163203,
+        "name": "Hypersensitive Azeritometer Sensor",
+        "subclass": 10
+    },
+    {
+        "id": 124122,
+        "name": "Leyfire",
+        "subclass": 10
+    },
+    {
+        "id": 22572,
+        "name": "Mote of Air",
+        "subclass": 10
+    },
+    {
+        "id": 22573,
+        "name": "Mote of Earth",
+        "subclass": 10
+    },
+    {
+        "id": 22574,
+        "name": "Mote of Fire",
+        "subclass": 10
+    },
+    {
+        "id": 89112,
+        "name": "Mote of Harmony",
+        "subclass": 10
+    },
+    {
+        "id": 22575,
+        "name": "Mote of Life",
+        "subclass": 10
+    },
+    {
+        "id": 22576,
+        "name": "Mote of Mana",
+        "subclass": 10
+    },
+    {
+        "id": 22577,
+        "name": "Mote of Shadow",
+        "subclass": 10
+    },
+    {
+        "id": 22578,
+        "name": "Mote of Water",
+        "subclass": 10
+    },
+    {
+        "id": 30183,
+        "name": "Nether Vortex",
+        "subclass": 10
+    },
+    {
+        "id": 22451,
+        "name": "Primal Air",
+        "subclass": 10
+    },
+    {
+        "id": 22452,
+        "name": "Primal Earth",
+        "subclass": 10
+    },
+    {
+        "id": 21884,
+        "name": "Primal Fire",
+        "subclass": 10
+    },
+    {
+        "id": 21886,
+        "name": "Primal Life",
+        "subclass": 10
+    },
+    {
+        "id": 22457,
+        "name": "Primal Mana",
+        "subclass": 10
+    },
+    {
+        "id": 23571,
+        "name": "Primal Might",
+        "subclass": 10
+    },
+    {
+        "id": 23572,
+        "name": "Primal Nether",
+        "subclass": 10
+    },
+    {
+        "id": 151568,
+        "name": "Primal Sargerite",
+        "subclass": 10
+    },
+    {
+        "id": 22456,
+        "name": "Primal Shadow",
+        "subclass": 10
+    },
+    {
+        "id": 120945,
+        "name": "Primal Spirit",
+        "subclass": 10
+    },
+    {
+        "id": 21885,
+        "name": "Primal Water",
+        "subclass": 10
+    },
+    {
+        "id": 54464,
+        "name": "Random Volatile Element",
+        "subclass": 10
+    },
+    {
+        "id": 162461,
+        "name": "Sanguicell",
+        "subclass": 10
+    },
+    {
+        "id": 113264,
+        "name": "Sorcerous Air",
+        "subclass": 10
+    },
+    {
+        "id": 113263,
+        "name": "Sorcerous Earth",
+        "subclass": 10
+    },
+    {
+        "id": 113261,
+        "name": "Sorcerous Fire",
+        "subclass": 10
+    },
+    {
+        "id": 113262,
+        "name": "Sorcerous Water",
+        "subclass": 10
+    },
+    {
+        "id": 76061,
+        "name": "Spirit of Harmony",
+        "subclass": 10
+    },
+    {
+        "id": 52328,
+        "name": "Volatile Air",
+        "subclass": 10
+    },
+    {
+        "id": 52327,
+        "name": "Volatile Earth",
+        "subclass": 10
+    },
+    {
+        "id": 52325,
+        "name": "Volatile Fire",
+        "subclass": 10
+    },
+    {
+        "id": 52329,
+        "name": "Volatile Life",
+        "subclass": 10
+    },
+    {
+        "id": 52326,
+        "name": "Volatile Water",
+        "subclass": 10
+    },
+    {
+        "id": 141323,
+        "name": "Wild Transmutation",
+        "subclass": 10
+    },
+    {
+        "id": 76349,
+        "name": "<DEPRECATED> Silver Filigree Flask",
+        "subclass": 11
+    },
+    {
+        "id": 52340,
+        "name": "Abyssal Clam",
+        "subclass": 11
+    },
+    {
+        "id": 158205,
+        "name": "Acacia Powder",
+        "subclass": 11
+    },
+    {
+        "id": 108996,
+        "name": "Alchemical Catalyst",
+        "subclass": 11
+    },
+    {
+        "id": 160059,
+        "name": "Amber Tanning Oil",
+        "subclass": 11
+    },
+    {
+        "id": 109585,
+        "name": "Arakkoa Cipher",
+        "subclass": 11
+    },
+    {
+        "id": 117011,
+        "name": "Ashmaul Pearl",
+        "subclass": 11
+    },
+    {
+        "id": 152581,
+        "name": "Bag of Jewels",
+        "subclass": 11
+    },
+    {
+        "id": 44700,
+        "name": "Brooding Darkwater Clam",
+        "subclass": 11
+    },
+    {
+        "id": 128014,
+        "name": "Burnished Essence",
+        "subclass": 11
+    },
+    {
+        "id": 52078,
+        "name": "Chaos Orb",
+        "subclass": 11
+    },
+    {
+        "id": 62786,
+        "name": "Cocoa Beans",
+        "subclass": 11
+    },
+    {
+        "id": 65513,
+        "name": "Crate of Tasty Meat",
+        "subclass": 11
+    },
+    {
+        "id": 109123,
+        "name": "Crescent Oil",
+        "subclass": 11
+    },
+    {
+        "id": 47556,
+        "name": "Crusader Orb",
+        "subclass": 11
+    },
+    {
+        "id": 27513,
+        "name": "Curious Crate",
+        "subclass": 11
+    },
+    {
+        "id": 61987,
+        "name": "Darkmoon Card of Destruction",
+        "subclass": 11
+    },
+    {
+        "id": 112270,
+        "name": "Darkmoon Card of Draenor",
+        "subclass": 11
+    },
+    {
+        "id": 79318,
+        "name": "Darkmoon Card of Mists",
+        "subclass": 11
+    },
+    {
+        "id": 153598,
+        "name": "Darkmoon Card of War",
+        "subclass": 11
+    },
+    {
+        "id": 128712,
+        "name": "Darkmoon Card of the Legion",
+        "subclass": 11
+    },
+    {
+        "id": 44318,
+        "name": "Darkmoon Card of the North",
+        "subclass": 11
+    },
+    {
+        "id": 36781,
+        "name": "Darkwater Clam",
+        "subclass": 11
+    },
+    {
+        "id": 56850,
+        "name": "Deepstone Oil",
+        "subclass": 11
+    },
+    {
+        "id": 146965,
+        "name": "Disgusting Ooze",
+        "subclass": 11
+    },
+    {
+        "id": 158186,
+        "name": "Distilled Water",
+        "subclass": 11
+    },
+    {
+        "id": 64394,
+        "name": "Draenei Tome",
+        "subclass": 11
+    },
+    {
+        "id": 108439,
+        "name": "Draenor Clan Orator Cane",
+        "subclass": 11
+    },
+    {
+        "id": 62788,
+        "name": "Dry Yeast",
+        "subclass": 11
+    },
+    {
+        "id": 160298,
+        "name": "Durable Flux",
+        "subclass": 11
+    },
+    {
+        "id": 87687,
+        "name": "Empty Crocolisk Belly Container",
+        "subclass": 11
+    },
+    {
+        "id": 87680,
+        "name": "Empty Emperor Salmon Container",
+        "subclass": 11
+    },
+    {
+        "id": 146655,
+        "name": "Empty Felessence Vessel",
+        "subclass": 11
+    },
+    {
+        "id": 87679,
+        "name": "Empty Giant Mantis Shrimp Container",
+        "subclass": 11
+    },
+    {
+        "id": 87686,
+        "name": "Empty Golden Carp Container",
+        "subclass": 11
+    },
+    {
+        "id": 87663,
+        "name": "Empty Green Cabbage Container",
+        "subclass": 11
+    },
+    {
+        "id": 87678,
+        "name": "Empty Jade Lungfish Container",
+        "subclass": 11
+    },
+    {
+        "id": 87670,
+        "name": "Empty Jade Squash Container",
+        "subclass": 11
+    },
+    {
+        "id": 87683,
+        "name": "Empty Jewel Danio Container",
+        "subclass": 11
+    },
+    {
+        "id": 87664,
+        "name": "Empty Juicycrunch Carrot Container",
+        "subclass": 11
+    },
+    {
+        "id": 87685,
+        "name": "Empty Krasarang Paddlefish Container",
+        "subclass": 11
+    },
+    {
+        "id": 87665,
+        "name": "Empty Mogu Pumpkin Container",
+        "subclass": 11
+    },
+    {
+        "id": 87659,
+        "name": "Empty Mushan Ribs Container",
+        "subclass": 11
+    },
+    {
+        "id": 87672,
+        "name": "Empty Pink Turnip Container",
+        "subclass": 11
+    },
+    {
+        "id": 87661,
+        "name": "Empty Raw Crab Meat Container",
+        "subclass": 11
+    },
+    {
+        "id": 87658,
+        "name": "Empty Raw Tiger Steak Container",
+        "subclass": 11
+    },
+    {
+        "id": 87660,
+        "name": "Empty Raw Turtle Meat Container",
+        "subclass": 11
+    },
+    {
+        "id": 87667,
+        "name": "Empty Red Blossom Leek Container",
+        "subclass": 11
+    },
+    {
+        "id": 87681,
+        "name": "Empty Redbelly Mandarin Container",
+        "subclass": 11
+    },
+    {
+        "id": 87684,
+        "name": "Empty Reef Octopus Container",
+        "subclass": 11
+    },
+    {
+        "id": 87666,
+        "name": "Empty Scallions Container",
+        "subclass": 11
+    },
+    {
+        "id": 87671,
+        "name": "Empty Striped Melon Container",
+        "subclass": 11
+    },
+    {
+        "id": 87682,
+        "name": "Empty Tiger Gourami Container",
+        "subclass": 11
+    },
+    {
+        "id": 87673,
+        "name": "Empty White Turnip Container",
+        "subclass": 11
+    },
+    {
+        "id": 87662,
+        "name": "Empty Wildfowl Breast Container",
+        "subclass": 11
+    },
+    {
+        "id": 87669,
+        "name": "Empty Witchberries Container",
+        "subclass": 11
+    },
+    {
+        "id": 38682,
+        "name": "Enchanting Vellum",
+        "subclass": 11
+    },
+    {
+        "id": 128018,
+        "name": "Ensorcelled Tarot",
+        "subclass": 11
+    },
+    {
+        "id": 71998,
+        "name": "Essence of Destruction",
+        "subclass": 11
+    },
+    {
+        "id": 154990,
+        "name": "Etched Drust Bone",
+        "subclass": 11
+    },
+    {
+        "id": 44958,
+        "name": "Ethereal Oil",
+        "subclass": 11
+    },
+    {
+        "id": 17204,
+        "name": "Eye of Sulfuras",
+        "subclass": 11
+    },
+    {
+        "id": 146969,
+        "name": "Faintly Pulsing Felstone",
+        "subclass": 11
+    },
+    {
+        "id": 127759,
+        "name": "Felblight",
+        "subclass": 11
+    },
+    {
+        "id": 146657,
+        "name": "Felessence Phial",
+        "subclass": 11
+    },
+    {
+        "id": 146658,
+        "name": "Felessence Phylactery",
+        "subclass": 11
+    },
+    {
+        "id": 146656,
+        "name": "Felessence Vessel",
+        "subclass": 11
+    },
+    {
+        "id": 136654,
+        "name": "Field Pack",
+        "subclass": 11
+    },
+    {
+        "id": 17010,
+        "name": "Fiery Core",
+        "subclass": 11
+    },
+    {
+        "id": 52197,
+        "name": "Figurine - Demon Panther",
+        "subclass": 11
+    },
+    {
+        "id": 65894,
+        "name": "Figurine - Dream Owl",
+        "subclass": 11
+    },
+    {
+        "id": 65897,
+        "name": "Figurine - Earthen Guardian",
+        "subclass": 11
+    },
+    {
+        "id": 65896,
+        "name": "Figurine - Jeweled Serpent",
+        "subclass": 11
+    },
+    {
+        "id": 65895,
+        "name": "Figurine - King of Boars",
+        "subclass": 11
+    },
+    {
+        "id": 60844,
+        "name": "Fortune Card",
+        "subclass": 11
+    },
+    {
+        "id": 60840,
+        "name": "Fortune Card",
+        "subclass": 11
+    },
+    {
+        "id": 60845,
+        "name": "Fortune Card",
+        "subclass": 11
+    },
+    {
+        "id": 124436,
+        "name": "Foxflower Flux",
+        "subclass": 11
+    },
+    {
+        "id": 43102,
+        "name": "Frozen Orb",
+        "subclass": 11
+    },
+    {
+        "id": 22682,
+        "name": "Frozen Rune",
+        "subclass": 11
+    },
+    {
+        "id": 117017,
+        "name": "Ghost Truffle",
+        "subclass": 11
+    },
+    {
+        "id": 45909,
+        "name": "Giant Darkwater Clam",
+        "subclass": 11
+    },
+    {
+        "id": 108738,
+        "name": "Giant Draenor Clam",
+        "subclass": 11
+    },
+    {
+        "id": 146968,
+        "name": "Glowing Fish Scale",
+        "subclass": 11
+    },
+    {
+        "id": 44317,
+        "name": "Greater Darkmoon Card",
+        "subclass": 11
+    },
+    {
+        "id": 160324,
+        "name": "Grumbling Sac",
+        "subclass": 11
+    },
+    {
+        "id": 146964,
+        "name": "Hatecoil Spearhead",
+        "subclass": 11
+    },
+    {
+        "id": 32428,
+        "name": "Heart of Darkness",
+        "subclass": 11
+    },
+    {
+        "id": 39501,
+        "name": "Heavy Parchment",
+        "subclass": 11
+    },
+    {
+        "id": 114836,
+        "name": "Hexweave Embroidery",
+        "subclass": 11
+    },
+    {
+        "id": 128012,
+        "name": "Hexweave Essence",
+        "subclass": 11
+    },
+    {
+        "id": 118225,
+        "name": "Highmaul Hops",
+        "subclass": 11
+    },
+    {
+        "id": 68689,
+        "name": "Imported Supplies",
+        "subclass": 11
+    },
+    {
+        "id": 27511,
+        "name": "Inscribed Scrollcase",
+        "subclass": 11
+    },
+    {
+        "id": 24476,
+        "name": "Jaggal Clam",
+        "subclass": 11
+    },
+    {
+        "id": 17011,
+        "name": "Lava Core",
+        "subclass": 11
+    },
+    {
+        "id": 116170,
+        "name": "Leather Refurbishing Kit",
+        "subclass": 11
+    },
+    {
+        "id": 69237,
+        "name": "Living Ember",
+        "subclass": 11
+    },
+    {
+        "id": 95373,
+        "name": "Mantid Amber Sliver",
+        "subclass": 11
+    },
+    {
+        "id": 141975,
+        "name": "Mark of Aquaos",
+        "subclass": 11
+    },
+    {
+        "id": 19943,
+        "name": "Massive Mojo",
+        "subclass": 11
+    },
+    {
+        "id": 162515,
+        "name": "Midnight Salmon",
+        "subclass": 11
+    },
+    {
+        "id": 127712,
+        "name": "Mighty Burnished Essence",
+        "subclass": 11
+    },
+    {
+        "id": 127718,
+        "name": "Mighty Ensorcelled Tarot",
+        "subclass": 11
+    },
+    {
+        "id": 127715,
+        "name": "Mighty Hexweave Essence",
+        "subclass": 11
+    },
+    {
+        "id": 127713,
+        "name": "Mighty Steelforged Essence",
+        "subclass": 11
+    },
+    {
+        "id": 127716,
+        "name": "Mighty Taladite Amplifier",
+        "subclass": 11
+    },
+    {
+        "id": 127714,
+        "name": "Mighty Truesteel Essence",
+        "subclass": 11
+    },
+    {
+        "id": 127717,
+        "name": "Mighty Weapon Crystal",
+        "subclass": 11
+    },
+    {
+        "id": 79869,
+        "name": "Mogu Statue Piece",
+        "subclass": 11
+    },
+    {
+        "id": 60838,
+        "name": "Mysterious Fortune Card",
+        "subclass": 11
+    },
+    {
+        "id": 64396,
+        "name": "Nerubian Obelisk",
+        "subclass": 11
+    },
+    {
+        "id": 146659,
+        "name": "Nethershard Essence",
+        "subclass": 11
+    },
+    {
+        "id": 62787,
+        "name": "Noble Hops",
+        "subclass": 11
+    },
+    {
+        "id": 43007,
+        "name": "Northern Spices",
+        "subclass": 11
+    },
+    {
+        "id": 109584,
+        "name": "Ogre Missive",
+        "subclass": 11
+    },
+    {
+        "id": 83092,
+        "name": "Orb of Mystery",
+        "subclass": 11
+    },
+    {
+        "id": 64392,
+        "name": "Orc Blood Text",
+        "subclass": 11
+    },
+    {
+        "id": 79868,
+        "name": "Pandaren Pottery Shard",
+        "subclass": 11
+    },
+    {
+        "id": 152580,
+        "name": "Pile of Cloth",
+        "subclass": 11
+    },
+    {
+        "id": 160322,
+        "name": "Pile of Ore",
+        "subclass": 11
+    },
+    {
+        "id": 12804,
+        "name": "Powerful Mojo",
+        "subclass": 11
+    },
+    {
+        "id": 49908,
+        "name": "Primordial Saronite",
+        "subclass": 11
+    },
+    {
+        "id": 142335,
+        "name": "Pristine Falcosaur Feather",
+        "subclass": 11
+    },
+    {
+        "id": 40195,
+        "name": "Pygmy Oil",
+        "subclass": 11
+    },
+    {
+        "id": 40199,
+        "name": "Pygmy Suckerfish",
+        "subclass": 11
+    },
+    {
+        "id": 65892,
+        "name": "Pyrium-Laced Crystalline Vial",
+        "subclass": 11
+    },
+    {
+        "id": 160325,
+        "name": "Quivering Sac",
+        "subclass": 11
+    },
+    {
+        "id": 162516,
+        "name": "Rasboralus",
+        "subclass": 11
+    },
+    {
+        "id": 44475,
+        "name": "Reinforced Crate",
+        "subclass": 11
+    },
+    {
+        "id": 39502,
+        "name": "Resilient Parchment",
+        "subclass": 11
+    },
+    {
+        "id": 12811,
+        "name": "Righteous Orb",
+        "subclass": 11
+    },
+    {
+        "id": 45087,
+        "name": "Runed Orb",
+        "subclass": 11
+    },
+    {
+        "id": 152578,
+        "name": "Sack of Herbs",
+        "subclass": 11
+    },
+    {
+        "id": 65893,
+        "name": "Sands of Time",
+        "subclass": 11
+    },
+    {
+        "id": 118472,
+        "name": "Savage Blood",
+        "subclass": 11
+    },
+    {
+        "id": 127730,
+        "name": "Savage Burnished Essence",
+        "subclass": 11
+    },
+    {
+        "id": 127736,
+        "name": "Savage Ensorcelled Tarot",
+        "subclass": 11
+    },
+    {
+        "id": 127733,
+        "name": "Savage Hexweave Essence",
+        "subclass": 11
+    },
+    {
+        "id": 127731,
+        "name": "Savage Steelforged Essence",
+        "subclass": 11
+    },
+    {
+        "id": 127734,
+        "name": "Savage Taladite Amplifier",
+        "subclass": 11
+    },
+    {
+        "id": 127732,
+        "name": "Savage Truesteel Essence",
+        "subclass": 11
+    },
+    {
+        "id": 127735,
+        "name": "Savage Weapon Crystal",
+        "subclass": 11
+    },
+    {
+        "id": 118700,
+        "name": "Secret of Draenor Alchemy",
+        "subclass": 11
+    },
+    {
+        "id": 118720,
+        "name": "Secret of Draenor Blacksmithing",
+        "subclass": 11
+    },
+    {
+        "id": 119293,
+        "name": "Secret of Draenor Enchanting",
+        "subclass": 11
+    },
+    {
+        "id": 119297,
+        "name": "Secret of Draenor Inscription",
+        "subclass": 11
+    },
+    {
+        "id": 118723,
+        "name": "Secret of Draenor Jewelcrafting",
+        "subclass": 11
+    },
+    {
+        "id": 118721,
+        "name": "Secret of Draenor Leatherworking",
+        "subclass": 11
+    },
+    {
+        "id": 118722,
+        "name": "Secret of Draenor Tailoring",
+        "subclass": 11
+    },
+    {
+        "id": 40411,
+        "name": "Shattered Vial",
+        "subclass": 11
+    },
+    {
+        "id": 156634,
+        "name": "Silus' Phial of Perpetual Potential",
+        "subclass": 11
+    },
+    {
+        "id": 156633,
+        "name": "Silus' Potion of Luck",
+        "subclass": 11
+    },
+    {
+        "id": 156631,
+        "name": "Silus' Sphere of Transmutation",
+        "subclass": 11
+    },
+    {
+        "id": 156632,
+        "name": "Silus' Stone of Transportation",
+        "subclass": 11
+    },
+    {
+        "id": 78912,
+        "name": "Silver Filigree Flask",
+        "subclass": 11
+    },
+    {
+        "id": 21882,
+        "name": "Soul Essence",
+        "subclass": 11
+    },
+    {
+        "id": 90407,
+        "name": "Sparkling Shard",
+        "subclass": 11
+    },
+    {
+        "id": 83064,
+        "name": "Spinefish",
+        "subclass": 11
+    },
+    {
+        "id": 152582,
+        "name": "Stack of Skins",
+        "subclass": 11
+    },
+    {
+        "id": 128016,
+        "name": "Steelforged Essence",
+        "subclass": 11
+    },
+    {
+        "id": 80240,
+        "name": "Strange Spherical Stone",
+        "subclass": 11
+    },
+    {
+        "id": 34664,
+        "name": "Sunmote",
+        "subclass": 11
+    },
+    {
+        "id": 128013,
+        "name": "Taladite Amplifier",
+        "subclass": 11
+    },
+    {
+        "id": 115524,
+        "name": "Taladite Crystal",
+        "subclass": 11
+    },
+    {
+        "id": 115526,
+        "name": "Taladite Recrystalizer",
+        "subclass": 11
+    },
+    {
+        "id": 64397,
+        "name": "Tol'vir Hieroglyphic",
+        "subclass": 11
+    },
+    {
+        "id": 128015,
+        "name": "Truesteel Essence",
+        "subclass": 11
+    },
+    {
+        "id": 116654,
+        "name": "Truesteel Grinder",
+        "subclass": 11
+    },
+    {
+        "id": 116428,
+        "name": "Truesteel Reshaper",
+        "subclass": 11
+    },
+    {
+        "id": 162517,
+        "name": "U'taka",
+        "subclass": 11
+    },
+    {
+        "id": 124438,
+        "name": "Unbroken Claw",
+        "subclass": 11
+    },
+    {
+        "id": 124439,
+        "name": "Unbroken Tooth",
+        "subclass": 11
+    },
+    {
+        "id": 116203,
+        "name": "Unstable Burnished Essence",
+        "subclass": 11
+    },
+    {
+        "id": 120263,
+        "name": "Unstable Ensorcelled Tarot",
+        "subclass": 11
+    },
+    {
+        "id": 116204,
+        "name": "Unstable Greater Burnished Essence",
+        "subclass": 11
+    },
+    {
+        "id": 120264,
+        "name": "Unstable Greater Ensorcelled Tarot",
+        "subclass": 11
+    },
+    {
+        "id": 114838,
+        "name": "Unstable Greater Hexweave Essence",
+        "subclass": 11
+    },
+    {
+        "id": 116653,
+        "name": "Unstable Greater Steelforged Essence",
+        "subclass": 11
+    },
+    {
+        "id": 115529,
+        "name": "Unstable Greater Taladite Amplifier",
+        "subclass": 11
+    },
+    {
+        "id": 116650,
+        "name": "Unstable Greater Truesteel Essence",
+        "subclass": 11
+    },
+    {
+        "id": 113183,
+        "name": "Unstable Greater Weapon Crystal",
+        "subclass": 11
+    },
+    {
+        "id": 114837,
+        "name": "Unstable Hexweave Essence",
+        "subclass": 11
+    },
+    {
+        "id": 122537,
+        "name": "Unstable Powerful Burnished Essence",
+        "subclass": 11
+    },
+    {
+        "id": 122543,
+        "name": "Unstable Powerful Ensorcelled Tarot",
+        "subclass": 11
+    },
+    {
+        "id": 122540,
+        "name": "Unstable Powerful Hexweave Essence",
+        "subclass": 11
+    },
+    {
+        "id": 122538,
+        "name": "Unstable Powerful Steelforged Essence",
+        "subclass": 11
+    },
+    {
+        "id": 122541,
+        "name": "Unstable Powerful Taladite Amplifier",
+        "subclass": 11
+    },
+    {
+        "id": 122539,
+        "name": "Unstable Powerful Truesteel Essence",
+        "subclass": 11
+    },
+    {
+        "id": 122542,
+        "name": "Unstable Powerful Weapon Crystal",
+        "subclass": 11
+    },
+    {
+        "id": 116652,
+        "name": "Unstable Steelforged Essence",
+        "subclass": 11
+    },
+    {
+        "id": 115527,
+        "name": "Unstable Taladite Amplifier",
+        "subclass": 11
+    },
+    {
+        "id": 116649,
+        "name": "Unstable Truesteel Essence",
+        "subclass": 11
+    },
+    {
+        "id": 113144,
+        "name": "Unstable Weapon Crystal",
+        "subclass": 11
+    },
+    {
+        "id": 64395,
+        "name": "Vrykul Rune Stick",
+        "subclass": 11
+    },
+    {
+        "id": 112377,
+        "name": "War Paints",
+        "subclass": 11
+    },
+    {
+        "id": 146966,
+        "name": "Water Totem Figurine",
+        "subclass": 11
+    },
+    {
+        "id": 128010,
+        "name": "Weapon Crystal",
+        "subclass": 11
+    },
+    {
+        "id": 146967,
+        "name": "White Sparkly Bauble",
+        "subclass": 11
+    },
+    {
+        "id": 154989,
+        "name": "Zandalari Idol",
+        "subclass": 11
+    },
+    {
+        "id": 34057,
+        "name": "Abyss Crystal",
+        "subclass": 12
+    },
+    {
+        "id": 25844,
+        "name": "Adamantite Rod",
+        "subclass": 12
+    },
+    {
+        "id": 22445,
+        "name": "Arcane Dust",
+        "subclass": 12
+    },
+    {
+        "id": 16206,
+        "name": "Arcanite Rod",
+        "subclass": 12
+    },
+    {
+        "id": 124440,
+        "name": "Arkhana",
+        "subclass": 12
+    },
+    {
+        "id": 80433,
+        "name": "Blood Spirit",
+        "subclass": 12
+    },
+    {
+        "id": 124442,
+        "name": "Chaos Crystal",
+        "subclass": 12
+    },
+    {
+        "id": 41741,
+        "name": "Cobalt Rod",
+        "subclass": 12
+    },
+    {
+        "id": 109693,
+        "name": "Draenic Dust",
+        "subclass": 12
+    },
+    {
+        "id": 34052,
+        "name": "Dream Shard",
+        "subclass": 12
+    },
+    {
+        "id": 89738,
+        "name": "Essence or Dust",
+        "subclass": 12
+    },
+    {
+        "id": 25845,
+        "name": "Eternium Rod",
+        "subclass": 12
+    },
+    {
+        "id": 74247,
+        "name": "Ethereal Shard",
+        "subclass": 12
+    },
+    {
+        "id": 25843,
+        "name": "Fel Iron Rod",
+        "subclass": 12
+    },
+    {
+        "id": 115504,
+        "name": "Fractured Temporal Crystal",
+        "subclass": 12
+    },
+    {
+        "id": 152875,
+        "name": "Gloom Dust",
+        "subclass": 12
+    },
+    {
+        "id": 52719,
+        "name": "Greater Celestial Essence",
+        "subclass": 12
+    },
+    {
+        "id": 34055,
+        "name": "Greater Cosmic Essence",
+        "subclass": 12
+    },
+    {
+        "id": 22446,
+        "name": "Greater Planar Essence",
+        "subclass": 12
+    },
+    {
+        "id": 94289,
+        "name": "Haunting Spirit",
+        "subclass": 12
+    },
+    {
+        "id": 52721,
+        "name": "Heavenly Shard",
+        "subclass": 12
+    },
+    {
+        "id": 52555,
+        "name": "Hypnotic Dust",
+        "subclass": 12
+    },
+    {
+        "id": 34054,
+        "name": "Infinite Dust",
+        "subclass": 12
+    },
+    {
+        "id": 22449,
+        "name": "Large Prismatic Shard",
+        "subclass": 12
+    },
+    {
+        "id": 52718,
+        "name": "Lesser Celestial Essence",
+        "subclass": 12
+    },
+    {
+        "id": 34056,
+        "name": "Lesser Cosmic Essence",
+        "subclass": 12
+    },
+    {
+        "id": 22447,
+        "name": "Lesser Planar Essence",
+        "subclass": 12
+    },
+    {
+        "id": 124441,
+        "name": "Leylight Shard",
+        "subclass": 12
+    },
+    {
+        "id": 111245,
+        "name": "Luminous Shard",
+        "subclass": 12
+    },
+    {
+        "id": 52722,
+        "name": "Maelstrom Crystal",
+        "subclass": 12
+    },
+    {
+        "id": 74250,
+        "name": "Mysterious Essence",
+        "subclass": 12
+    },
+    {
+        "id": 22462,
+        "name": "Runed Adamantite Rod",
+        "subclass": 12
+    },
+    {
+        "id": 16207,
+        "name": "Runed Arcanite Rod",
+        "subclass": 12
+    },
+    {
+        "id": 52723,
+        "name": "Runed Elementium Rod",
+        "subclass": 12
+    },
+    {
+        "id": 22463,
+        "name": "Runed Eternium Rod",
+        "subclass": 12
+    },
+    {
+        "id": 22461,
+        "name": "Runed Fel Iron Rod",
+        "subclass": 12
+    },
+    {
+        "id": 152882,
+        "name": "Runed Norgal Rod",
+        "subclass": 12
+    },
+    {
+        "id": 44452,
+        "name": "Runed Titanium Rod",
+        "subclass": 12
+    },
+    {
+        "id": 74248,
+        "name": "Sha Crystal",
+        "subclass": 12
+    },
+    {
+        "id": 105718,
+        "name": "Sha Crystal Fragment",
+        "subclass": 12
+    },
+    {
+        "id": 34053,
+        "name": "Small Dream Shard",
+        "subclass": 12
+    },
+    {
+        "id": 74252,
+        "name": "Small Ethereal Shard",
+        "subclass": 12
+    },
+    {
+        "id": 52720,
+        "name": "Small Heavenly Shard",
+        "subclass": 12
+    },
+    {
+        "id": 115502,
+        "name": "Small Luminous Shard",
+        "subclass": 12
+    },
+    {
+        "id": 22448,
+        "name": "Small Prismatic Shard",
+        "subclass": 12
+    },
+    {
+        "id": 74249,
+        "name": "Spirit Dust",
+        "subclass": 12
+    },
+    {
+        "id": 102218,
+        "name": "Spirit of War",
+        "subclass": 12
+    },
+    {
+        "id": 113588,
+        "name": "Temporal Crystal",
+        "subclass": 12
+    },
+    {
+        "id": 41745,
+        "name": "Titanium Rod",
+        "subclass": 12
+    },
+    {
+        "id": 152876,
+        "name": "Umbra Shard",
+        "subclass": 12
+    },
+    {
+        "id": 152877,
+        "name": "Veiled Crystal",
+        "subclass": 12
+    },
+    {
+        "id": 22450,
+        "name": "Void Crystal",
+        "subclass": 12
+    },
+    {
+        "id": 61979,
+        "name": "Ashen Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 39343,
+        "name": "Azure Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 61978,
+        "name": "Blackfallow Ink",
+        "subclass": 16
+    },
+    {
+        "id": 67348,
+        "name": "Bleached Jawbone",
+        "subclass": 16
+    },
+    {
+        "id": 156637,
+        "name": "Blood Contract: Bloodguard",
+        "subclass": 16
+    },
+    {
+        "id": 156638,
+        "name": "Blood Contract: Bloodshed",
+        "subclass": 16
+    },
+    {
+        "id": 156636,
+        "name": "Blood Contract: Oblivion",
+        "subclass": 16
+    },
+    {
+        "id": 156563,
+        "name": "Blood Contract: Sacrifice",
+        "subclass": 16
+    },
+    {
+        "id": 61980,
+        "name": "Burning Embers",
+        "subclass": 16
+    },
+    {
+        "id": 114931,
+        "name": "Cerulean Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 153661,
+        "name": "Contract: Proudmoore Admiralty",
+        "subclass": 16
+    },
+    {
+        "id": 158188,
+        "name": "Crimson Ink",
+        "subclass": 16
+    },
+    {
+        "id": 153636,
+        "name": "Crimson Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 43125,
+        "name": "Darkflame Ink",
+        "subclass": 16
+    },
+    {
+        "id": 62323,
+        "name": "Deathwing Scale Fragment",
+        "subclass": 16
+    },
+    {
+        "id": 43108,
+        "name": "Ebon Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 43124,
+        "name": "Ethereal Ink",
+        "subclass": 16
+    },
+    {
+        "id": 43109,
+        "name": "Icy Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 79254,
+        "name": "Ink of Dreams",
+        "subclass": 16
+    },
+    {
+        "id": 43126,
+        "name": "Ink of the Sea",
+        "subclass": 16
+    },
+    {
+        "id": 79253,
+        "name": "Misty Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 39342,
+        "name": "Nether Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 62322,
+        "name": "Polished Horn",
+        "subclass": 16
+    },
+    {
+        "id": 67319,
+        "name": "Preserved Ogre Eye",
+        "subclass": 16
+    },
+    {
+        "id": 129032,
+        "name": "Roseate Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 129034,
+        "name": "Sallow Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 153670,
+        "name": "Sanguine Feather Quill of Lana'thel",
+        "subclass": 16
+    },
+    {
+        "id": 43107,
+        "name": "Sapphire Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 68047,
+        "name": "Scavenged Dragon Horn",
+        "subclass": 16
+    },
+    {
+        "id": 79731,
+        "name": "Scroll of Wisdom",
+        "subclass": 16
+    },
+    {
+        "id": 79251,
+        "name": "Shadow Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 67335,
+        "name": "Silver Charm Bracelet",
+        "subclass": 16
+    },
+    {
+        "id": 43127,
+        "name": "Snowfall Ink",
+        "subclass": 16
+    },
+    {
+        "id": 79255,
+        "name": "Starlight Ink",
+        "subclass": 16
+    },
+    {
+        "id": 158187,
+        "name": "Ultramarine Ink",
+        "subclass": 16
+    },
+    {
+        "id": 153635,
+        "name": "Ultramarine Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 158189,
+        "name": "Viridescent Ink",
+        "subclass": 16
+    },
+    {
+        "id": 153669,
+        "name": "Viridescent Pigment",
+        "subclass": 16
+    },
+    {
+        "id": 113289,
+        "name": "Volatile Crystal",
+        "subclass": 16
+    },
+    {
+        "id": 113111,
+        "name": "Warbinder's Ink",
+        "subclass": 16
+    }
+]
