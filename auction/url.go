@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
+	"log"
 	"net/http"
 	"net/url"
 	"path"
@@ -57,20 +58,21 @@ func (t *jsonTime) UnmarshalJSON(s []byte) (err error) {
 
 func (t jsonTime) String() string { return time.Time(t).String() }
 
-// GetAuctionHouseSnapshotURL fetch the auction snapshot url from battle net API
+// GetSnapshotURL fetch the auction snapshot url from battle net API
 // apiKey you battle net API Key
 // BaseURL the base url of the  Region
 // realmSlug slug of the realm
-func GetAuctionHouseSnapshotURL(baseURL string, apiKey string, realmSlug string) (Snapshot, error) {
+func GetSnapshotURL(baseURL string, apiKey string, realmSlug string) (Snapshot, error) {
 	snapshotURL, err := url.Parse(baseURL)
 	if err != nil {
 		return Snapshot{}, errors.Wrap(err, "can't parse wow API url")
 	}
 	snapshotURL.Path = path.Join(apiPath, realmSlug)
 	q := snapshotURL.Query()
-	q.Set("key", apiKey)
+	q.Set("apikey", apiKey)
 	snapshotURL.RawQuery = q.Encode()
 	resp, err := http.Get(snapshotURL.String())
+	log.Println(snapshotURL.String())
 	if err != nil {
 		return Snapshot{}, errors.Wrap(err, "error fetching api url")
 	}

@@ -37,7 +37,7 @@ func TestGetAuctionHouseSnapshotURL(t *testing.T) {
 		t.Errorf("Unexpected error parsing expectedLastMod date '%s'", err)
 	}
 
-	snapshot, err := GetAuctionHouseSnapshotURL(ts.URL, "apikey", "server")
+	snapshot, err := GetSnapshotURL(ts.URL, "apikey", "server")
 	if err != nil {
 		t.Fatalf("unexpected error GetAuctionHouseSnapshotURL() %s", err)
 	}
