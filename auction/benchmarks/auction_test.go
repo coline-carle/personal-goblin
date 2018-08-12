@@ -2,9 +2,10 @@ package test
 
 import (
 	"io/ioutil"
+	"path/filepath"
 	"testing"
 
-	"github.com/coline-carle/auctions/auction"
+	"github.com/coline-carle/personal-goblin/auction"
 )
 
 func Benchmark_Parse(b *testing.B) {
@@ -29,7 +30,12 @@ func Benchmark_ParseFilter(b *testing.B) {
 		b.Fatalf("unexpected eror opening fixutre: %s\n", err)
 	}
 
-	whitelist, err := auction.LoadWhitelist()
+	files, err := filepath.Glob("./data/*.json")
+	if err != nil {
+		b.Fatalf("unexpected eror loading filters: %s\n", err)
+	}
+
+	whitelist, err := auction.LoadLists(files)
 	if err != nil {
 		b.Fatalf("unexpected eror loading whitelist: %s\n", err)
 	}

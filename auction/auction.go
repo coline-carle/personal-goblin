@@ -25,31 +25,36 @@ type Auction struct {
 }
 
 type parser struct {
-	whitelist map[int64]struct{}
-	auctions  []Auction
-	data      []byte
+	auctions map[int64]Auctions
+	filtered bool
+	data     []byte
 }
 
 // Parse return a list of auction as defined in the auction house snaphsot
-func Parse(data []byte) ([]Auction, error) {
+func Parse(data []byte) (map[int64]Auctions, error) {
 	p := &parser{
-		auctions: []Auction{},
+		auctions: make(map[int64]Auctions),
 		data:     data,
+		filtered: false,
 	}
 	return p.Parse()
 }
 
 // ParseFilter return a list of auction as defined in the auction house snaphsot filtered using a whitelist
-func ParseFilter(data []byte, filter map[int64]struct{}) ([]Auction, error) {
+func ParseFilter(data []byte, filter []int64) (map[int64]Auctions, error) {
+	auctions := make(map[int64]Auctions, len(filter))
+	for _, id := range filter {
+		auctions[id] = []Auction{}
+	}
 	p := &parser{
-		auctions:  []Auction{},
-		data:      data,
-		whitelist: filter,
+		auctions: auctions,
+		data:     data,
+		filtered: true,
 	}
 	return p.Parse()
 }
 
-func (p *parser) Parse() ([]Auction, error) {
+func (p *parser) Parse() (map[int64]Auctions, error) {
 	jsonparser.ArrayEach(p.data, func(line []byte, dataType jsonparser.ValueType, offset int, err error) {
 		p.parseLine(line)
 		if err != nil {
@@ -81,8 +86,8 @@ func (p *parser) parseLine(line []byte) error {
 	if err != nil {
 		return errors.Wrap(err, "malformed auction")
 	}
-	if len(p.whitelist) > 0 {
-		if _, ok := p.whitelist[auction.Item]; !ok {
+	if p.filtered {
+		if _, ok := p.auctions[auction.Item]; !ok {
 			return nil
 		}
 	}
@@ -102,6 +107,19 @@ func (p *parser) parseLine(line []byte) error {
 		return errors.Wrap(err, "malformed auction")
 	}
 
-	p.auctions = append(p.auctions, auction)
+	p.auctions[auction.Item] = append(p.auctions[auction.Item], auction)
 	return nil
 }
+
+// FetchLatestPrices return more recently updated price for a realm
+// baseURL battle.net API entrypoint for a given region
+// apiKey battle.net API key
+// realmSlug slug of the realm
+// lastModified the fetched timestamp should be superior to it for the fuction to fetch new pices
+// func FetchLatestPrices(baseURL string, apiKey string, realmSlug string, lastModified time.Time) error {
+// 	snapshot, err := GetSnapshotURL(baseURL, apiKey, realmSlug)
+// 	if err != nil {
+// 		return errors.Wrap(err, "can't fetch auction snapshot url")
+// 	}
+// 	return nil
+// }

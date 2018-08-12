@@ -1,13 +1,16 @@
 package auction
 
-import "testing"
+import (
+	"testing"
 
-func TestLoadWhitelist(t *testing.T) {
-	items, err := LoadWhitelist()
+	"github.com/stretchr/testify/assert"
+)
+
+func TestLoadLists(t *testing.T) {
+	items, err := LoadLists([]string{"./fixtures/filter.json"})
 	if err != nil {
 		t.Fatalf("unexpected error loading whitelist: %s\n", err)
 	}
-	if _, ok := items[23784]; !ok {
-		t.Error("expected to found item with 23784 id\n")
-	}
+	expected := []int64{23784, 161136, 98717, 161131, 161137}
+	assert.Equal(t, expected, items)
 }

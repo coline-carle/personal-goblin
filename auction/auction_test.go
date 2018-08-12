@@ -12,13 +12,13 @@ func TestParse(t *testing.T) {
 	if err != nil {
 		t.Fatalf("unexpected eror opening fixutre: %s\n", err)
 	}
-	var auctions []Auction
-	auctions, err = Parse(data)
+	auctions, err := Parse(data)
 	if err != nil {
 		t.Fatalf("unexpected eror parsing auction file: %s\n", err)
 	}
-	if len(auctions) < 10000 {
-		t.Errorf("expected more than 10000 auction got %d", len(auctions))
+	const expectedLen = 5355
+	if len(auctions) != expectedLen {
+		t.Errorf("expected %d auction got %d", expectedLen, len(auctions))
 	}
 }
 
@@ -30,17 +30,16 @@ func TestParseFilter(t *testing.T) {
 		t.Fatalf("unexpected eror opening fixutre: %s\n", err)
 	}
 
-	whitelist, err := LoadWhitelist()
+	whitelist, err := LoadLists([]string{"fixtures/filter.json"})
 	if err != nil {
 		t.Fatalf("unexpected eror loading whitelist: %s\n", err)
 	}
-	var auctions []Auction
-	auctions, err = ParseFilter(data, whitelist)
+	auctions, err := ParseFilter(data, whitelist)
 	if err != nil {
 		t.Fatalf("unexpected eror parsing auction file: %s\n", err)
 	}
-	if len(auctions) > 10000 || len(auctions) < 5000 {
-		t.Errorf("expected more than 10000 auction got %d", len(auctions))
+	if len(auctions) == 3 {
+		t.Errorf("expected more than %d auctiosn got %d", 3, len(auctions))
 	}
 }
 

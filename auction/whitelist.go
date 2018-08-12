@@ -3,7 +3,6 @@ package auction
 import (
 	"io/ioutil"
 	"log"
-	"path/filepath"
 
 	"github.com/buger/jsonparser"
 	"github.com/pkg/errors"
@@ -13,16 +12,17 @@ const errJSONData = "error loading json data whitelist"
 const errMalformedItem = "malformed item"
 const errMalformedData = "malformed data"
 
-func loadData(items map[int64]struct{}, data []byte) {
-
+func loadData(data []byte) []int64 {
+	items := []int64{}
 	jsonparser.ArrayEach(data, func(line []byte, dataType jsonparser.ValueType, offset int, err error) {
-		id, err := parseItem(line)
+		item, err := parseItem(line)
 		if err == nil {
-			items[id] = struct{}{}
+			items = append(items, item)
 		} else {
 			log.Println(err)
 		}
 	})
+	return items
 }
 
 func parseItem(item []byte) (int64, error) {
@@ -38,20 +38,16 @@ func parseItem(item []byte) (int64, error) {
 	return integer, nil
 }
 
-// LoadWhitelist load the lists of the object we want to track !
-func LoadWhitelist() (map[int64]struct{}, error) {
-	files, err := filepath.Glob("./data/*.json")
-	if err != nil {
-		return nil, errors.Wrap(err, errJSONData)
-	}
-
-	items := make(map[int64]struct{})
-	for _, file := range files {
-		data, err := ioutil.ReadFile(file)
+// LoadLists load the lists of object id to track
+func LoadLists(filenames []string) ([]int64, error) {
+	items := []int64{}
+	for _, filename := range filenames {
+		data, err := ioutil.ReadFile(filename)
 		if err != nil {
 			return nil, errors.Wrap(err, errJSONData)
 		}
-		loadData(items, data)
+		filter := loadData(data)
+		items = append(items, filter...)
 
 	}
 	return items, nil
