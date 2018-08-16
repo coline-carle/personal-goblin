@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-	"log"
 	"net/http"
 	"net/url"
 	"path"
@@ -72,7 +71,6 @@ func GetSnapshotURL(baseURL string, apiKey string, realmSlug string) (Snapshot, 
 	q.Set("apikey", apiKey)
 	snapshotURL.RawQuery = q.Encode()
 	resp, err := http.Get(snapshotURL.String())
-	log.Println(snapshotURL.String())
 	if err != nil {
 		return Snapshot{}, errors.Wrap(err, "error fetching api url")
 	}
