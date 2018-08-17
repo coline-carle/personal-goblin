@@ -11,6 +11,6 @@ func TestLoadLists(t *testing.T) {
 	if err != nil {
 		t.Fatalf("unexpected error loading whitelist: %s\n", err)
 	}
-	expected := []int64{23784, 161136, 98717, 161131, 161137}
+	expected := map[int64]Item{23784: Item{ID: 23784, Name: "Adamantite Frame", Level: 33, Class: 7, Subclass: 1}}
 	assert.Equal(t, expected, items)
 }

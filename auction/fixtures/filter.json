@@ -2,26 +2,14 @@
   {
       "id": 23784,
       "name": "Adamantite Frame",
-      "subclass": 1
+      "class": 7,
+      "subclass": 1,
+      "level": 33
   },
   {
       "id": 161136,
       "name": "Azerite Forged Protection Plating",
-      "subclass": 1
-  },
-  {
-      "id": 98717,
-      "name": "Balanced Trillium Ingot",
-      "subclass": 1
-  },
-  {
-      "id": 161131,
-      "name": "Barely Stable Azerite Reactor",
-      "subclass": 1
-  },
-  {
-      "id": 161137,
-      "name": "Blast-Fired Electric Servomotor",
+      "class": 7,
       "subclass": 1
   }
 ]

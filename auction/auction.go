@@ -41,9 +41,9 @@ func Parse(data []byte) (map[int64]Auctions, error) {
 }
 
 // ParseFilter return a list of auction as defined in the auction house snaphsot filtered using a whitelist
-func ParseFilter(data []byte, filter []int64) (map[int64]Auctions, error) {
-	auctions := make(map[int64]Auctions, len(filter))
-	for _, id := range filter {
+func ParseFilter(data []byte, items map[int64]Item) (map[int64]Auctions, error) {
+	auctions := make(map[int64]Auctions, len(items))
+	for id := range items {
 		auctions[id] = []Auction{}
 	}
 	p := &parser{
