@@ -11,12 +11,12 @@ var sortTests = []struct {
 	expected Auctions
 }{
 	{
-		Auctions{Auction{Buyout: 1}},
-		Auctions{Auction{Buyout: 1}},
+		Auctions{Auction{buyoutUnit: 1}},
+		Auctions{Auction{buyoutUnit: 1}},
 	},
 	{
-		Auctions{Auction{Buyout: 1}, Auction{Buyout: 3}, Auction{Buyout: 2}, Auction{Buyout: 0}},
-		Auctions{Auction{Buyout: 0}, Auction{Buyout: 1}, Auction{Buyout: 2}, Auction{Buyout: 3}},
+		Auctions{Auction{buyoutUnit: 1}, Auction{buyoutUnit: 3}, Auction{buyoutUnit: 2}, Auction{buyoutUnit: 0}},
+		Auctions{Auction{buyoutUnit: 0}, Auction{buyoutUnit: 1}, Auction{buyoutUnit: 2}, Auction{buyoutUnit: 3}},
 	},
 }
 

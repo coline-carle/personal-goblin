@@ -1,4 +1,4 @@
-package test
+package benchmark
 
 import (
 	"io/ioutil"
@@ -8,7 +8,8 @@ import (
 	"github.com/coline-carle/personal-goblin/auction"
 )
 
-func Benchmark_Parse(b *testing.B) {
+// BenchmarkParse bench without filtering
+func BenchmarkParse(b *testing.B) {
 	var err error
 	var data []byte
 	data, err = ioutil.ReadFile("../fixtures/medivh.json")
@@ -22,7 +23,8 @@ func Benchmark_Parse(b *testing.B) {
 	}
 }
 
-func Benchmark_ParseFilter(b *testing.B) {
+// BenchmarkParseFilter bench with filtering
+func BenchmarkParseFilter(b *testing.B) {
 	var err error
 	var data []byte
 	data, err = ioutil.ReadFile("../fixtures/medivh.json")

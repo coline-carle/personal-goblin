@@ -51,11 +51,11 @@ func parseItem(data []byte) (Item, error) {
 		return item, errors.Wrap(err, "error reading item level")
 	}
 	item.Level = int(value)
-	value, err = jsonparser.GetInt(data, "class")
-	if err != nil {
-		return item, errors.Wrap(err, "error reading item class")
-	}
-	item.Class = int(value)
+	// value, err = jsonparser.GetInt(data, "class")
+	// if err != nil {
+	// 	return item, errors.Wrap(err, "error reading item class")
+	// }
+	// item.Class = int(value)
 	value, err = jsonparser.GetInt(data, "subclass")
 	if err != nil {
 		return item, errors.Wrap(err, "error reading item subclass")

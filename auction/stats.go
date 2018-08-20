@@ -2,16 +2,19 @@ package auction
 
 import "math"
 
-func sum(auctions Auctions) int64 {
+func sums(auctions Auctions) (int64, int64) {
 	total := int64(0)
+	totalQuantity := int64(0)
 	for _, auction := range auctions {
-		total += auction.Buyout * auction.Quantity
+		total += auction.Buyout
+		totalQuantity += auction.Quantity
 	}
-	return total
+	return total, totalQuantity
 }
 
 func mean(auctions Auctions) float64 {
-	return float64(sum(auctions)) / float64(len(auctions))
+	total, totalQuantity := sums(auctions)
+	return float64(total) / float64(totalQuantity)
 }
 
 func stdDev(auctions Auctions, mean float64) float64 {

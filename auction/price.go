@@ -2,7 +2,6 @@ package auction
 
 import (
 	"errors"
-	"fmt"
 )
 
 var (
@@ -17,8 +16,12 @@ const (
 // BuyoutAverage for a given item
 func BuyoutAverage(auctions Auctions) (float64, error) {
 	if len(auctions) == 0 {
-		return 0, ErrNoAuctions
+		return 0.0, ErrNoAuctions
 	}
+	for i := range auctions {
+		auctions[i].CalcBuyoutUnit()
+	}
+
 	auctions.sort()
 	maxIndex := int(float64(len(auctions)) * 0.30)
 	minIndex := int(float64(len(auctions)) * 0.15)
@@ -27,10 +30,14 @@ func BuyoutAverage(auctions Auctions) (float64, error) {
 	for i = 0; i < maxIndex; i++ {
 		price := float64(auctions[i].Buyout)
 		if i > minIndex && price > 1.2*prevPrice {
-			fmt.Println(i)
 			break
 		}
 		prevPrice = price
+	}
+
+	// set is too small 1, 2 elements
+	if i == 0 {
+		i = 1
 	}
 
 	auctions = auctions[0:i]

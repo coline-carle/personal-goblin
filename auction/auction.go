@@ -22,6 +22,9 @@ type Auction struct {
 	Buyout int64
 	// Quantity item stack size
 	Quantity int64
+
+	// calculated buyout / unit
+	buyoutUnit float64
 }
 
 type parser struct {
@@ -38,6 +41,10 @@ func Parse(data []byte) (map[int64]Auctions, error) {
 		filtered: false,
 	}
 	return p.Parse()
+}
+
+func (a *Auction) CalcBuyoutUnit() {
+	a.buyoutUnit = float64(a.Buyout) / float64(a.Quantity)
 }
 
 // ParseFilter return a list of auction as defined in the auction house snaphsot filtered using a whitelist
