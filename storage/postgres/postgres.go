@@ -20,6 +20,13 @@ type StoragePostgres struct {
 	db          *sql.DB
 }
 
+// create a new postgres structure for test
+func newTest(db *sql.DB) *StoragePostgres {
+	return &StoragePostgres{
+		db: db,
+	}
+}
+
 // New create a new StoragePostgres struct
 func New(postgresURL string) (*StoragePostgres, error) {
 	return &StoragePostgres{
