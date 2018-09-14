@@ -13,46 +13,45 @@ const (
 	throwFactor = 1.5
 )
 
-// BuyoutAverage for a given item
-func BuyoutAverage(auctions Auctions) (float64, error) {
-	if len(auctions) == 0 {
-		return 0.0, ErrNoAuctions
-	}
-	for i := range auctions {
-		auctions[i].CalcBuyoutUnit()
-	}
+// Market represent the state of the market of a given item
+type Market struct {
+	AvgBuyout uint64
+	MinBuyout uint64
+	Size      uint64
+}
 
-	auctions.sort()
+func firstCut(auctions Auctions) Auctions {
 	maxIndex := int(float64(len(auctions)) * 0.30)
 	minIndex := int(float64(len(auctions)) * 0.15)
-	prevPrice := float64(auctions[0].Buyout)
+	prevPrice := float64(auctions[0].BuyoutUnit())
 	var i int
 	for i = 0; i < maxIndex; i++ {
-		price := float64(auctions[i].Buyout)
+		price := float64(auctions[i].BuyoutUnit())
 		if i > minIndex && price > 1.2*prevPrice {
 			break
 		}
 		prevPrice = price
 	}
-
 	// set is too small 1, 2 elements
 	if i == 0 {
 		i = 1
 	}
 
-	auctions = auctions[0:i]
+	return auctions[0:i]
+}
 
-	auctionsMean := mean(auctions)
-	stdDev := stdDev(auctions, auctionsMean)
+func secondCut(auctions Auctions) Auctions {
+	auctionsMean := auctions.mean()
+	stdDev := auctions.stdDev(auctionsMean)
 
-	minPrice := auctionsMean - stdDev*throwFactor
-	maxPrice := auctionsMean + stdDev*throwFactor
+	minPrice := auctionsMean - uint64(stdDev*throwFactor)
+	maxPrice := auctionsMean + uint64(stdDev*throwFactor)
 
-	minIndex = 0
-	maxIndex = len(auctions)
+	minIndex := 0
+	maxIndex := len(auctions)
 
-	for i = 0; i < maxIndex; i++ {
-		price := float64(auctions[i].Buyout)
+	for i := 0; i < maxIndex; i++ {
+		price := auctions[i].BuyoutUnit()
 		if price < minPrice {
 			minIndex = i + 1
 		}
@@ -61,8 +60,23 @@ func BuyoutAverage(auctions Auctions) (float64, error) {
 			break
 		}
 	}
+	return auctions[minIndex:maxIndex]
+}
 
-	auctions = auctions[minIndex:maxIndex]
+// BuyoutAverage for a given item
+func BuyoutAverage(auctions Auctions) (Market, error) {
+	var market Market
+	if len(auctions) == 0 {
+		return market, ErrNoAuctions
+	}
+	market.Size = auctions.totalQuantity()
 
-	return mean(auctions), nil
+	auctions.sort()
+	market.MinBuyout = auctions[0].Buyout
+	auctions = firstCut(auctions)
+	auctions = secondCut(auctions)
+
+	market.AvgBuyout = auctions.mean()
+
+	return market, nil
 }

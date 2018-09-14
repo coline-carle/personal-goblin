@@ -2,26 +2,38 @@ package auction
 
 import "math"
 
-func sums(auctions Auctions) (int64, int64) {
-	total := int64(0)
-	totalQuantity := int64(0)
+func (auctions Auctions) sum() uint64 {
+	total := uint64(0)
+	totalQuantity := uint64(0)
 	for _, auction := range auctions {
 		total += auction.Buyout
 		totalQuantity += auction.Quantity
 	}
-	return total, totalQuantity
+	return total
 }
 
-func mean(auctions Auctions) float64 {
-	total, totalQuantity := sums(auctions)
-	return float64(total) / float64(totalQuantity)
-}
-
-func stdDev(auctions Auctions, mean float64) float64 {
-	total := 0.0
+func (auctions Auctions) totalQuantity() uint64 {
+	totalQuantity := uint64(0)
 	for _, auction := range auctions {
-		total += math.Pow(float64(auction.Buyout*auction.Quantity)-mean, 2)
+		totalQuantity += auction.Quantity
 	}
-	variance := total / float64(len(auctions)-1)
+	return totalQuantity
+}
+
+func (auctions Auctions) mean() uint64 {
+	total := auctions.sum()
+	totalQuantity := auctions.totalQuantity()
+	return uint64(float64(total) / float64(totalQuantity))
+}
+
+func (auctions Auctions) stdDev(mean uint64) float64 {
+	if len(auctions) == 1 {
+		return 0.0
+	}
+	total := uint64(0)
+	for _, auction := range auctions {
+		total += (auction.BuyoutUnit() - mean) * (auction.BuyoutUnit() - mean) * auction.Quantity
+	}
+	variance := float64(total) / float64(len(auctions)-1)
 	return math.Sqrt(variance)
 }

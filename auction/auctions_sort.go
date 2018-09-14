@@ -10,7 +10,7 @@ func (a Auctions) Len() int {
 }
 
 func (a Auctions) Less(i, j int) bool {
-	return a[i].buyoutUnit < a[j].buyoutUnit
+	return a[i].BuyoutUnit() < a[j].BuyoutUnit()
 }
 
 func (a Auctions) Swap(i, j int) {

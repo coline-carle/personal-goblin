@@ -30,10 +30,7 @@ func TestParseFilter(t *testing.T) {
 		t.Fatalf("unexpected eror opening fixutre: %s\n", err)
 	}
 
-	whitelist, err := LoadLists([]string{"fixtures/filter.json"})
-	if err != nil {
-		t.Fatalf("unexpected eror loading whitelist: %s\n", err)
-	}
+	whitelist := []uint64{23784, 161136}
 	auctions, err := ParseFilter(data, whitelist)
 	if err != nil {
 		t.Fatalf("unexpected eror parsing auction file: %s\n", err)
