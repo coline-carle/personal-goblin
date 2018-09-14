@@ -60,8 +60,8 @@ func (s *StoragePostgres) ApplyMigrations() error {
 	}
 
 	err = m.Up()
-	if err != nil {
-		return errors.Wrap(err, "error migrating ot the latest")
+	if err != nil && err != migrate.ErrNoChange {
+		return errors.Wrap(err, "error migrating to the latest")
 	}
 
 	return nil
