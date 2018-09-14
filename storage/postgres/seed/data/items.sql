@@ -31,7 +31,7 @@ INSERT INTO items (id, watch_auctions)
     (152641, TRUE), -- Flask of the Undertow
 
     -- cauldron
-    (162519, TRUE), -- Mystical Cauldron
+    (162519, FALSE), -- Mystical Cauldron
 
     -- batle potions
     (163222, TRUE), -- Battle Potion of Intellect
@@ -44,7 +44,7 @@ INSERT INTO items (id, watch_auctions)
     (152557, TRUE), -- Steelskin Potion
 
     -- utility potions
-    (162113, TRUE), -- Potion of Herb Tracking
+    (162113, FALSE), -- Potion of Herb Tracking
     (152496, TRUE), -- Demitri's Draught of Deception
     (152497, TRUE), -- Lightfoot Potion
     (152503, TRUE), -- Potion of Concealment
