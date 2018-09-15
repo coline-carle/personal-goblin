@@ -40,6 +40,7 @@ func Parse(data []byte) (map[uint64]Auctions, error) {
 	return p.Parse()
 }
 
+// BuyoutUnit is the price for a single item
 func (a *Auction) BuyoutUnit() uint64 {
 	return a.Buyout / a.Quantity
 }
