@@ -8,5 +8,5 @@ type Storage interface {
 	ApplyMigrations() error
 	Tx(fn func(*sql.Tx) error) error
 
-	GetWatchAuctionsItems(tx *sql.Tx) ([]int64, error)
+	GetWatchAuctionsItems(tx *sql.Tx) ([]uint64, error)
 }
