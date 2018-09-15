@@ -27,7 +27,7 @@ func TestGetWatchAuctionsItems(t *testing.T) {
 		WillReturnRows(rows)
 	mock.ExpectCommit()
 
-	var ids []int64
+	var ids []uint64
 	err = storage.Tx(func(tx *sql.Tx) error {
 		var err2 error
 		ids, err2 = storage.GetWatchAuctionsItems(tx)

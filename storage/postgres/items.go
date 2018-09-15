@@ -6,9 +6,9 @@ import (
 	"github.com/pkg/errors"
 )
 
-// GetWatchAuctionItems return item ids of all items we want to watch at the auction house.g
-func (s *StoragePostgres) GetWatchAuctionsItems(tx *sql.Tx) ([]int64, error) {
-	var ret []int64
+// GetWatchAuctionsItems return item ids of all items we want to watch at the auction house.g
+func (s *StoragePostgres) GetWatchAuctionsItems(tx *sql.Tx) ([]uint64, error) {
+	var ret []uint64
 	rows, err := tx.Query("SELECT id from items WHERE watch_auctions = TRUE")
 	if err != nil {
 		return nil, errors.Wrap(err, "internal server error")
@@ -20,7 +20,7 @@ func (s *StoragePostgres) GetWatchAuctionsItems(tx *sql.Tx) ([]int64, error) {
 		if err != nil {
 			return nil, errors.Wrap(err, "internal server error")
 		}
-		ret = append(ret, id)
+		ret = append(ret, uint64(id))
 	}
 	return ret, nil
 }
