@@ -63,6 +63,16 @@ func secondCut(auctions Auctions) Auctions {
 	return auctions[minIndex:maxIndex]
 }
 
+func removeBidOnlyAuctions(auctions Auctions) Auctions {
+	var i int
+	for i = 0; i < len(auctions); i++ {
+		if auctions[i].Buyout > 0 {
+			break
+		}
+	}
+	return auctions[i:len(auctions)]
+}
+
 // BuyoutAverage for a given item
 func BuyoutAverage(auctions Auctions) (Market, error) {
 	var market Market
@@ -72,6 +82,7 @@ func BuyoutAverage(auctions Auctions) (Market, error) {
 	market.Size = auctions.totalQuantity()
 
 	auctions.sort()
+	auctions = removeBidOnlyAuctions(auctions)
 	market.MinBuyout = auctions[0].Buyout
 	auctions = firstCut(auctions)
 	auctions = secondCut(auctions)
