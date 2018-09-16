@@ -69,6 +69,6 @@ func main() {
 			log.Println(err)
 		}
 
-		fmt.Printf("id: %d - buyout: %d\n", id, int64(buyout.AvgBuyout))
+		fmt.Printf("id: %d - buyout: %.2f\n", id, float64(buyout.AvgBuyout)/100/100)
 	}
 }
