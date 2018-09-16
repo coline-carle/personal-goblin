@@ -42,6 +42,6 @@ func TestGetWatchAuctionsItems(t *testing.T) {
 	if err := mock.ExpectationsWereMet(); err != nil {
 		t.Errorf("there were unfulfilled expectations: %s", err)
 	}
-	expected := []int64{123, 345, 678}
+	expected := []uint64{123, 345, 678}
 	assert.Equal(t, expected, ids)
 }
